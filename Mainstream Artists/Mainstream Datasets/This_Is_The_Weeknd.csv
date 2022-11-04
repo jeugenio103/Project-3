@@ -1,0 +1,51 @@
+,song name,album,artist,release_date,length(ms),popularity,acousticness,danceability,energy,liveness,tempo,valence
+0,Die For You,Starboy,The Weeknd,2016-11-25,260253,87,0.111,0.582,0.525,0.134,133.249,0.51
+1,Blinding Lights,After Hours,The Weeknd,2020-03-20,200040,90,0.00146,0.514,0.73,0.0897,171.005,0.334
+2,Call Out My Name,"My Dear Melancholy,",The Weeknd,2018-03-30,228373,88,0.17,0.461,0.593,0.307,134.17,0.175
+3,Save Your Tears,After Hours,The Weeknd,2020-03-20,215626,88,0.0212,0.68,0.826,0.543,118.051,0.644
+4,Sacrifice,Dawn FM,The Weeknd,2022-01-06,188918,79,0.0296,0.735,0.795,0.0678,122.0,0.905
+5,The Hills,Beauty Behind The Madness,The Weeknd,2015-08-28,242253,86,0.0671,0.585,0.564,0.135,113.003,0.137
+6,One Right Now (with The Weeknd),One Right Now,Post Malone,2021-11-05,193506,79,0.0361,0.687,0.781,0.0755,97.014,0.688
+7,Can't Feel My Face,Beauty Behind The Madness,The Weeknd,2015-08-28,213520,81,0.113,0.705,0.769,0.105,107.949,0.583
+8,Stargirl Interlude,Starboy,The Weeknd,2016-11-25,111640,81,0.351,0.638,0.474,0.105,179.771,0.441
+9,Moth To A Flame (with The Weeknd),Paradise Again,Swedish House Mafia,2022-04-15,234000,82,0.0027,0.553,0.659,0.105,120.146,0.105
+10,I Feel It Coming,Starboy,The Weeknd,2016-11-25,269186,80,0.428,0.773,0.819,0.0679,92.987,0.585
+11,Starboy,Starboy,The Weeknd,2016-11-25,230453,89,0.141,0.679,0.587,0.137,186.003,0.486
+12,Out of Time,Dawn FM,The Weeknd,2022-01-06,214193,81,0.255,0.65,0.76,0.339,93.057,0.838
+13,I Heard You’re Married (feat. Lil Wayne),Dawn FM,The Weeknd,2022-01-06,263641,70,0.103,0.736,0.848,0.299,109.946,0.784
+14,Take My Breath - Single Version,Take My Breath,The Weeknd,2021-08-05,220196,69,0.0106,0.747,0.739,0.101,120.996,0.523
+15,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack","Earned It (Fifty Shades Of Grey) [From The ""Fifty Shades Of Grey"" Soundtrack]",The Weeknd,2014-12-23,252226,76,0.385,0.659,0.381,0.0972,119.844,0.426
+16,House Of Balloons / Glass Table Girls,Trilogy,The Weeknd,2012-11-13,405213,69,0.0123,0.65,0.711,0.301,89.019,0.319
+17,In Your Eyes,After Hours,The Weeknd,2020-03-20,237520,78,0.00285,0.667,0.719,0.0736,100.021,0.717
+18,Pray For Me,The Highlights,The Weeknd,2021-02-05,211420,77,0.0867,0.732,0.678,0.112,100.626,0.196
+19,You Right,You Right,Doja Cat,2021-06-24,186173,66,0.0164,0.828,0.621,0.0845,128.986,0.436
+20,Heartless,After Hours,The Weeknd,2020-03-20,198266,79,0.0236,0.537,0.746,0.156,170.062,0.252
+21,Often,Beauty Behind The Madness,The Weeknd,2015-08-28,249040,80,0.222,0.572,0.631,0.135,134.078,0.0713
+22,Love Me Harder,My Everything (Deluxe),Ariana Grande,2014-08-25,236133,77,0.00937,0.472,0.714,0.0764,98.992,0.24
+23,Acquainted,Beauty Behind The Madness,The Weeknd,2015-08-28,348853,75,0.482,0.372,0.478,0.0844,101.102,0.254
+24,Wicked Games,Trilogy,The Weeknd,2012-11-13,323746,73,0.00959,0.658,0.591,0.325,114.078,0.326
+25,The Morning,Trilogy,The Weeknd,2012-11-13,312426,74,0.317,0.652,0.549,0.104,120.073,0.186
+26,After Hours,After Hours,The Weeknd,2020-03-20,361026,81,0.0811,0.664,0.572,0.121,108.959,0.143
+27,Over Now (with The Weeknd),Over Now (with The Weeknd),Calvin Harris,2020-08-28,210795,70,0.0759,0.612,0.884,0.247,178.043,0.679
+28,Hawái - Remix,Hawái (Remix),Maluma,2020-11-05,200481,71,0.105,0.766,0.788,0.142,179.984,0.609
+29,Nothing Compares - Bonus Track,After Hours (Deluxe),The Weeknd,2020-03-20,222306,66,0.00253,0.532,0.577,0.234,131.922,0.0397
+30,Missed You - Bonus Track,After Hours (Deluxe),The Weeknd,2020-03-20,144539,67,0.115,0.689,0.374,0.111,151.98,0.321
+31,Final Lullaby - Bonus Track,After Hours (Deluxe),The Weeknd,2020-03-20,185688,62,0.841,0.604,0.26,0.327,100.901,0.318
+32,Try Me,"My Dear Melancholy,",The Weeknd,2018-03-30,221106,74,0.596,0.456,0.679,0.129,92.026,0.107
+33,Wasted Times,"My Dear Melancholy,",The Weeknd,2018-03-30,220293,73,0.61,0.56,0.678,0.111,122.585,0.29
+34,I Was Never There,"My Dear Melancholy,",The Weeknd,2018-03-30,241066,89,0.142,0.323,0.737,0.163,113.26,0.155
+35,Hurt You,"My Dear Melancholy,",The Weeknd,2018-03-30,230026,73,0.263,0.476,0.718,0.109,183.932,0.361
+36,Power is Power (feat. The Weeknd & Travis Scott),For The Throne (Music Inspired by the HBO Series Game of Thrones),Game of Thrones,2019-04-26,211266,67,0.00413,0.507,0.644,0.217,179.913,0.172
+37,Party Monster,Starboy,The Weeknd,2016-11-25,249213,75,0.189,0.573,0.63,0.259,77.525,0.218
+38,Some Way,NAV,NAV,2017-02-24,179773,73,0.101,0.744,0.715,0.0919,154.962,0.34
+39,Lost in the Fire (feat. The Weeknd),Hyperion,Gesaffelstein,2019-03-08,202093,84,0.0933,0.658,0.671,0.115,100.966,0.166
+40,Rockin’,Starboy,The Weeknd,2016-11-25,232880,68,0.0133,0.738,0.885,0.0821,112.878,0.752
+41,Sidewalks,Starboy,The Weeknd,2016-11-25,231360,72,0.147,0.542,0.72,0.348,149.828,0.623
+42,Might Not,Up For Days,Belly,2015-11-20,224213,69,0.318,0.792,0.563,0.13,134.022,0.321
+43,False Alarm,Starboy,The Weeknd,2016-11-25,220306,69,0.0324,0.517,0.677,0.189,173.978,0.192
+44,In The Night,Beauty Behind The Madness,The Weeknd,2015-08-28,235653,74,0.0796,0.505,0.68,0.0465,168.022,0.539
+45,A Lonely Night,Starboy,The Weeknd,2016-11-25,220173,69,0.0431,0.853,0.663,0.0891,113.998,0.864
+46,Secrets,Starboy,The Weeknd,2016-11-25,265600,71,0.0155,0.664,0.771,0.46,109.945,0.763
+47,Nothing Without You,Starboy,The Weeknd,2016-11-25,198653,66,0.0646,0.575,0.634,0.0878,109.825,0.191
+48,Tell Your Friends,Beauty Behind The Madness,The Weeknd,2015-08-28,334333,71,0.265,0.583,0.454,0.181,74.64,0.309
+49,High For This,Trilogy,The Weeknd,2012-11-13,247226,71,0.744,0.465,0.403,0.0777,74.95,0.0687

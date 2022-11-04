@@ -1,0 +1,38 @@
+,song name,album,artist,release_date,length(ms),popularity,acousticness,danceability,energy,liveness,tempo,valence
+0,As It Was,Harry's House,Harry Styles,2022-05-20,167303,91,0.342,0.52,0.731,0.311,173.93,0.662
+1,Late Night Talking,Harry's House,Harry Styles,2022-05-20,177954,91,0.298,0.714,0.728,0.106,114.996,0.901
+2,Adore You,Fine Line,Harry Styles,2019-12-13,207133,84,0.0237,0.676,0.771,0.102,99.048,0.569
+3,Watermelon Sugar,Fine Line,Harry Styles,2019-12-13,174000,88,0.122,0.548,0.816,0.335,95.39,0.557
+4,Music For a Sushi Restaurant,Harry's House,Harry Styles,2022-05-20,193813,83,0.258,0.72,0.715,0.107,107.041,0.357
+5,Daylight,Harry's House,Harry Styles,2022-05-20,164533,82,0.484,0.686,0.445,0.175,145.5,0.626
+6,Matilda,Harry's House,Harry Styles,2022-05-20,245964,84,0.896,0.507,0.294,0.0966,114.199,0.386
+7,Golden,Fine Line,Harry Styles,2019-12-13,208906,82,0.21,0.448,0.838,0.131,139.863,0.254
+8,Sign of the Times,Harry Styles,Harry Styles,2017-05-12,340706,83,0.0275,0.516,0.595,0.109,119.972,0.222
+9,Satellite,Harry's House,Harry Styles,2022-05-20,218577,82,0.143,0.576,0.457,0.0917,138.984,0.301
+10,Love Of My Life,Harry's House,Harry Styles,2022-05-20,191638,81,0.669,0.555,0.536,0.0623,118.057,0.203
+11,Lights Up,Fine Line,Harry Styles,2019-12-13,172213,75,0.0392,0.575,0.621,0.141,101.987,0.27
+12,Falling,Fine Line,Harry Styles,2019-12-13,240133,83,0.839,0.567,0.267,0.089,110.011,0.0592
+13,Kiwi,Harry Styles,Harry Styles,2017-05-12,176386,76,0.00064,0.375,0.93,0.318,147.124,0.491
+14,Grapejuice,Harry's House,Harry Styles,2022-05-20,191958,79,0.357,0.645,0.721,0.204,182.928,0.88
+15,Little Freak,Harry's House,Harry Styles,2022-05-20,202183,82,0.719,0.559,0.535,0.0954,141.96,0.402
+16,Cherry,Fine Line,Harry Styles,2019-12-13,259186,73,0.615,0.53,0.512,0.129,95.946,0.411
+17,Daydreaming,Harry's House,Harry Styles,2022-05-20,187342,78,0.311,0.707,0.811,0.131,113.971,0.899
+18,Cinema,Harry's House,Harry Styles,2022-05-20,243507,78,0.354,0.829,0.644,0.0944,105.993,0.896
+19,Keep Driving,Harry's House,Harry Styles,2022-05-20,140241,81,0.321,0.721,0.479,0.182,164.948,0.902
+20,Sweet Creature,Harry Styles,Harry Styles,2017-05-12,224866,75,0.746,0.427,0.262,0.068,104.085,0.228
+21,"Sunflower, Vol. 6",Fine Line,Harry Styles,2019-12-13,221826,72,0.000564,0.566,0.846,0.121,160.02,0.86
+22,Boyfriends,Harry's House,Harry Styles,2022-05-20,194543,76,0.935,0.417,0.202,0.108,118.029,0.323
+23,Treat People With Kindness,Fine Line,Harry Styles,2019-12-13,197346,70,0.128,0.653,0.869,0.046,122.017,0.697
+24,She,Fine Line,Harry Styles,2019-12-13,362653,74,0.000532,0.535,0.521,0.19,140.026,0.457
+25,Fine Line,Fine Line,Harry Styles,2019-12-13,377960,77,0.172,0.306,0.347,0.0485,120.996,0.0511
+26,Canyon Moon,Fine Line,Harry Styles,2019-12-13,189786,71,0.328,0.603,0.621,0.119,94.022,0.7
+27,Two Ghosts,Harry Styles,Harry Styles,2017-05-12,229813,72,0.234,0.386,0.407,0.0999,69.387,0.456
+28,From the Dining Table,Harry Styles,Harry Styles,2017-05-12,211960,74,0.804,0.671,0.156,0.113,94.08,0.201
+29,To Be So Lonely,Fine Line,Harry Styles,2019-12-13,192080,71,0.618,0.758,0.436,0.335,104.959,0.605
+30,Carolina,Harry Styles,Harry Styles,2017-05-12,189613,70,0.000569,0.624,0.673,0.104,121.986,0.458
+31,"Girl Crush - Recorded at Metropolis Studios, London",Spotify Singles,Harry Styles,2017-09-27,243804,69,0.658,0.468,0.197,0.109,144.212,0.249
+32,Only Angel,Harry Styles,Harry Styles,2017-05-12,291080,69,0.287,0.554,0.842,0.106,114.036,0.348
+33,Woman,Harry Styles,Harry Styles,2017-05-12,278800,70,0.0169,0.624,0.647,0.221,136.022,0.379
+34,Meet Me in the Hallway,Harry Styles,Harry Styles,2017-05-12,227200,70,0.747,0.537,0.383,0.356,104.252,0.339
+35,Ever Since New York,Harry Styles,Harry Styles,2017-05-12,253386,69,0.2,0.389,0.537,0.125,127.964,0.383
+36,"Two Ghosts - Recorded at Metropolis Studios, London",Spotify Singles,Harry Styles,2017-09-27,224255,62,0.475,0.535,0.231,0.102,133.625,0.291

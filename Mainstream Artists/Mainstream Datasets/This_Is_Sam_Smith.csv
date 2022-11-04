@@ -1,0 +1,52 @@
+,song name,album,artist,release_date,length(ms),popularity,acousticness,danceability,energy,liveness,tempo,valence
+0,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),Sam Smith,2022-09-22,156943,100,0.013,0.714,0.472,0.266,131.121,0.238
+1,Love Me More,Love Me More,Sam Smith,2022-04-28,190658,77,0.302,0.791,0.439,0.126,85.004,0.559
+2,Dancing With A Stranger (with Normani),Dancing With A Stranger (with Normani),Sam Smith,2019-01-11,171029,75,0.45,0.741,0.52,0.222,102.998,0.347
+3,Diamonds,Diamonds,Sam Smith,2020-09-17,213869,70,0.154,0.653,0.667,0.107,104.181,0.556
+4,Like I Can,In The Lonely Hour,Sam Smith,2014-05-26,167065,81,0.343,0.656,0.627,0.124,99.933,0.481
+5,Too Good At Goodbyes,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,201000,75,0.64,0.681,0.372,0.169,91.873,0.476
+6,How Do You Sleep?,How Do You Sleep?,Sam Smith,2019-07-19,202204,74,0.153,0.477,0.682,0.0763,110.567,0.345
+7,I'm Not The Only One,In The Lonely Hour,Sam Smith,2014-05-26,239316,87,0.529,0.677,0.485,0.0766,82.001,0.493
+8,Promises (with Sam Smith),Promises (with Sam Smith),Calvin Harris,2018-08-17,213309,76,0.0119,0.781,0.768,0.325,123.07,0.486
+9,I’m Ready (with Demi Lovato),I’m Ready (with Demi Lovato),Sam Smith,2020-04-16,200838,64,0.00346,0.501,0.674,0.282,155.051,0.152
+10,Stay With Me,In The Lonely Hour,Sam Smith,2014-05-26,172723,83,0.588,0.418,0.42,0.11,84.094,0.184
+11,To Die For,To Die For,Sam Smith,2020-02-14,193795,68,0.832,0.483,0.361,0.098,171.649,0.307
+12,Pray,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,221595,60,0.282,0.535,0.382,0.0865,87.801,0.147
+13,Lay Me Down,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,219535,73,0.919,0.468,0.19,0.107,125.319,0.326
+14,Money On My Mind,In The Lonely Hour,Sam Smith,2014-05-26,192670,67,0.204,0.688,0.841,0.229,133.912,0.743
+15,How Will I Know,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,232234,65,0.945,0.426,0.132,0.0809,85.039,0.283
+16,One Last Song,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,192922,55,0.367,0.672,0.53,0.321,103.326,0.485
+17,My Oasis (feat. Burna Boy),My Oasis (feat. Burna Boy),Sam Smith,2020-07-30,179916,67,0.569,0.691,0.474,0.099,143.783,0.381
+18,Latch,Settle (Deluxe),Disclosure,2013-06-03,255866,71,0.0178,0.729,0.735,0.089,121.986,0.544
+19,La La La,Hotel Cabana (Deluxe Version),Naughty Boy,2014-01-01,222200,63,0.107,0.772,0.65,0.0905,125.082,0.262
+20,Kids Again,Love Goes,Sam Smith,2020-10-30,207528,59,0.486,0.666,0.726,0.0892,128.044,0.468
+21,"Fire On Fire - From ""Watership Down""","Fire On Fire (From ""Watership Down"")",Sam Smith,2018-12-21,246735,68,0.476,0.584,0.407,0.18,115.124,0.341
+22,Burning,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,203289,54,0.885,0.631,0.224,0.282,86.936,0.365
+23,Young,Love Goes,Sam Smith,2020-10-30,153027,58,0.651,0.657,0.19,0.328,118.421,0.406
+24,No Peace,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,283294,54,0.343,0.66,0.542,0.122,135.828,0.152
+25,"Baby, You Make Me Crazy",The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,207966,53,0.00739,0.513,0.648,0.176,169.743,0.497
+26,Make It To Me,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,162732,72,0.63,0.456,0.379,0.0983,149.967,0.225
+27,Another One,Love Goes,Sam Smith,2020-10-30,189306,54,0.206,0.497,0.618,0.403,123.305,0.223
+28,So Serious,Love Goes,Sam Smith,2020-10-30,172583,58,0.312,0.568,0.519,0.0858,91.892,0.38
+29,Dance (‘Til You Love Someone Else),Love Goes,Sam Smith,2020-10-30,225392,53,0.0821,0.723,0.653,0.0824,124.023,0.361
+30,For The Lover That I Lost,Love Goes,Sam Smith,2020-10-30,179722,59,0.815,0.494,0.291,0.127,136.99,0.413
+31,Breaking Hearts,Love Goes,Sam Smith,2020-10-30,166492,53,0.639,0.689,0.215,0.107,91.839,0.227
+32,Forgive Myself,Love Goes,Sam Smith,2020-10-30,220237,54,0.917,0.758,0.155,0.116,122.026,0.207
+33,Love Goes (feat. Labrinth),Love Goes,Sam Smith,2020-10-30,284271,53,0.812,0.459,0.232,0.154,145.137,0.204
+34,I Feel Love,I Feel Love,Sam Smith,2019-11-01,254453,64,0.00645,0.719,0.708,0.064,126.015,0.256
+35,Not In That Way,In The Lonely Hour,Sam Smith,2014-05-26,172452,61,0.939,0.476,0.152,0.126,71.395,0.288
+36,Leave Your Lover,In The Lonely Hour,Sam Smith,2014-05-26,188377,61,0.948,0.415,0.264,0.106,92.879,0.357
+37,Say It First,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,247554,53,0.766,0.566,0.407,0.111,119.781,0.156
+38,Latch - Acoustic,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,223429,64,0.981,0.372,0.247,0.11,96.17,0.239
+39,Midnight Train,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,207164,55,0.377,0.713,0.597,0.179,96.06,0.399
+40,Palace,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,187156,52,0.74,0.345,0.193,0.117,77.547,0.268
+41,"Burning - Recorded At RAK Studios, London",Spotify Singles,Sam Smith,2018-01-31,231160,54,0.921,0.557,0.169,0.105,75.762,0.372
+42,Nirvana,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,202268,59,0.528,0.501,0.578,0.101,97.808,0.393
+43,The Thrill Of It All,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,208903,49,0.81,0.496,0.279,0.11,127.053,0.103
+44,One Day At A Time,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,209380,48,0.775,0.502,0.32,0.113,129.356,0.337
+45,Drowning Shadows,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,253959,57,0.906,0.289,0.334,0.0938,67.916,0.287
+46,"Writing's On The Wall - From ""Spectre"" Soundtrack",Writing's On The Wall,Sam Smith,2015-09-25,278987,67,0.769,0.261,0.302,0.0863,81.418,0.0883
+47,"Get Here - Recorded At RAK Studios, London",Spotify Singles,Sam Smith,2018-01-31,169226,57,0.924,0.46,0.217,0.108,99.634,0.303
+48,Love Is A Losing Game,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,177690,54,0.948,0.24,0.232,0.11,74.612,0.182
+49,Omen - Radio Edit,Omen (Radio Edit),Disclosure,2015-07-27,196817,64,0.115,0.671,0.786,0.363,106.057,0.621
+50,Safe With Me,Nirvana,Sam Smith,2013-01-01,184748,45,0.028,0.62,0.663,0.37,122.046,0.315

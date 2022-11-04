@@ -1,0 +1,76 @@
+,song name,album,artist,release_date,length(ms),popularity,acousticness,danceability,energy,liveness,tempo,valence
+0,Ghost,Justice,Justin Bieber,2021-03-19,153190,78,0.178,0.604,0.741,0.409,153.947,0.473
+1,STAY (with Justin Bieber),STAY (with Justin Bieber),The Kid LAROI,2021-07-09,141805,87,0.0383,0.591,0.764,0.103,169.928,0.478
+2,Sorry,Purpose (Deluxe),Justin Bieber,2015-11-13,200786,81,0.0797,0.654,0.76,0.299,99.945,0.41
+3,Intentions (feat. Quavo),Changes,Justin Bieber,2020-02-14,212866,76,0.3,0.806,0.546,0.102,147.986,0.874
+4,What Do You Mean?,Purpose (Deluxe),Justin Bieber,2015-11-13,205680,77,0.59,0.845,0.567,0.0811,125.02,0.793
+5,Hold On,Hold On,Justin Bieber,2021-03-05,170813,74,0.0106,0.658,0.634,0.132,139.98,0.29
+6,Let Me Love You,Encore,DJ Snake,2016-08-05,205946,83,0.0863,0.649,0.716,0.135,99.988,0.163
+7,Peaches (feat. Daniel Caesar & Giveon),Justice,Justin Bieber,2021-03-19,198081,84,0.321,0.677,0.696,0.42,90.03,0.464
+8,Beautiful Love - Free Fire,Beautiful Love (Free Fire),Justin Bieber,2022-08-30,207837,74,0.0568,0.789,0.602,0.108,111.022,0.525
+9,Cold Water,Cold Water,Major Lazer,2016-07-22,185360,67,0.0736,0.608,0.798,0.156,92.943,0.501
+10,Honest (feat. Don Toliver),Honest,Justin Bieber,2022-04-29,193322,73,0.127,0.81,0.655,0.105,150.002,0.809
+11,Baby,My World 2.0,Justin Bieber,2010-01-01,214240,81,0.0401,0.728,0.859,0.111,65.043,0.535
+12,Love Yourself,Purpose (Deluxe),Justin Bieber,2015-11-13,233720,83,0.835,0.609,0.378,0.28,100.418,0.515
+13,Holy (feat. Chance The Rapper),Holy,Justin Bieber,2020-09-18,212093,73,0.196,0.673,0.704,0.0898,86.919,0.372
+14,Yummy,Changes,Justin Bieber,2020-02-14,208520,69,0.345,0.676,0.506,0.118,145.842,0.497
+15,Red Eye (feat. TroyBoi),Justice (The Complete Edition),Justin Bieber,2021-10-08,187452,67,0.0501,0.815,0.816,0.0761,96.033,0.774
+16,Boyfriend,Believe,Justin Bieber,2012-01-01,171333,73,0.0358,0.717,0.55,0.126,96.976,0.332
+17,Lonely (with benny blanco),Lonely (with benny blanco),Justin Bieber,2020-10-16,149297,73,0.864,0.631,0.239,0.116,79.859,0.0927
+18,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Grateful,DJ Khaled,2017-06-22,288876,63,0.0533,0.599,0.667,0.134,80.984,0.817
+19,Where Are Ü Now (with Justin Bieber),Skrillex and Diplo present Jack Ü,Jack Ü,2015-02-24,250285,73,0.041,0.432,0.781,0.0789,139.432,0.197
+20,Off My Face,Justice,Justin Bieber,2021-03-19,156467,76,0.92,0.509,0.228,0.104,90.674,0.586
+21,Despacito - Remix,Despacito Feat. Justin Bieber (Remix),Luis Fonsi,2017-04-17,228826,71,0.228,0.653,0.816,0.0967,178.085,0.816
+22,As Long As You Love Me,Believe (Deluxe Edition),Justin Bieber,2012-06-15,229466,67,0.0811,0.571,0.873,0.361,139.691,0.613
+23,Beauty And A Beat,Believe (Deluxe Edition),Justin Bieber,2012-06-15,227986,74,0.000688,0.602,0.843,0.0682,128.003,0.526
+24,Anyone,Anyone,Justin Bieber,2021-01-01,190779,74,0.181,0.686,0.538,0.113,115.884,0.584
+25,Company,Purpose (Deluxe),Justin Bieber,2015-11-13,208120,70,0.132,0.59,0.797,0.0846,94.948,0.425
+26,As I Am (feat. Khalid),Justice,Justin Bieber,2021-03-19,174406,62,0.131,0.608,0.547,0.0974,99.947,0.108
+27,2U,2U,David Guetta,2017-06-09,194906,61,0.225,0.551,0.651,0.224,144.875,0.562
+28,Never Say Never,Never Say Never - The Remixes,Justin Bieber,2011-01-01,227853,72,0.0181,0.739,0.807,0.295,97.048,0.632
+29,There She Go (feat. Lil Uzi Vert),Justice (Triple Chucks Deluxe),Justin Bieber,2021-03-26,215019,56,0.00968,0.727,0.716,0.12,150.071,0.911
+30,attention,attention,Omah Lay,2022-03-03,180563,67,0.172,0.817,0.72,0.109,119.989,0.384
+31,Hailey,Justice (The Complete Edition),Justin Bieber,2021-10-08,193354,69,0.0367,0.462,0.745,0.0795,100.042,0.254
+32,up at night (feat. justin bieber),up at night (feat. justin bieber),Kehlani,2022-03-30,182226,64,0.196,0.563,0.756,0.245,100.012,0.234
+33,Essence (feat. Justin Bieber & Tems),Essence (feat. Justin Bieber & Tems),Wizkid,2021-08-13,263288,66,0.0159,0.835,0.691,0.108,103.999,0.581
+34,Angels Speak,Justice (The Complete Edition),Justin Bieber,2021-10-08,231667,54,0.874,0.522,0.243,0.098,119.341,0.569
+35,Friends (with BloodPop®),Friends (with BloodPop®),Justin Bieber,2017-08-17,189466,69,0.00389,0.743,0.735,0.304,104.979,0.631
+36,Confident,Journals,Justin Bieber,2014-05-13,248133,65,0.113,0.738,0.563,0.191,134.132,0.876
+37,I Don't Care (with Justin Bieber),I Don't Care (with Justin Bieber),Ed Sheeran,2019-05-10,219946,77,0.0912,0.798,0.675,0.0894,101.956,0.842
+38,Somebody To Love,My World 2.0,Justin Bieber,2010-01-01,220920,69,0.00249,0.714,0.833,0.298,129.964,0.663
+39,One Time,My World,Justin Bieber,2009-01-01,215866,70,0.0631,0.691,0.853,0.082,145.999,0.762
+40,All That Matters,Journals,Justin Bieber,2014-05-13,191173,57,0.00508,0.696,0.513,0.0682,129.859,0.144
+41,Come Around Me,Changes,Justin Bieber,2020-02-14,200773,66,0.263,0.648,0.681,0.0971,157.941,0.767
+42,Eenie Meenie,Eenie Meenie EP,Sean Kingston,2020-02-28,201653,64,0.0348,0.734,0.639,0.102,121.212,0.836
+43,Deserve You,Justice,Justin Bieber,2021-03-19,187238,66,0.0314,0.677,0.633,0.112,89.934,0.409
+44,Next To You (feat. Justin Bieber),F.A.M.E. (Expanded Edition),Chris Brown,2011-03-22,265813,69,0.0201,0.67,0.676,0.11,114.974,0.349
+45,2 Much,Justice,Justin Bieber,2021-03-19,152796,69,0.593,0.583,0.444,0.353,119.59,0.167
+46,One Less Lonely Girl,My World,Justin Bieber,2009-01-01,229106,69,0.159,0.58,0.75,0.274,86.938,0.728
+47,Forever (feat. Post Malone & Clever),Changes,Justin Bieber,2020-02-14,219933,68,0.538,0.825,0.483,0.204,139.98,0.892
+48,Lifetime,Justice (Triple Chucks Deluxe),Justin Bieber,2021-03-26,207020,55,0.769,0.669,0.276,0.115,90.025,0.341
+49,No Brainer,No Brainer,DJ Khaled,2018-07-27,260000,66,0.0733,0.552,0.76,0.0865,135.702,0.639
+50,Purpose,Purpose (Deluxe),Justin Bieber,2015-11-13,210160,66,0.9,0.481,0.285,0.123,130.029,0.316
+51,Die For You (feat. Dominic Fike),Justice,Justin Bieber,2021-03-19,198425,49,0.00196,0.729,0.632,0.0848,135.027,0.702
+52,Don’t Go (with Justin Bieber & Don Toliver),Don’t Go (with Justin Bieber & Don Toliver),Skrillex,2021-08-20,168253,67,0.019,0.689,0.695,0.123,75.05,0.359
+53,Unstable (feat. The Kid LAROI),Justice,Justin Bieber,2021-03-19,158324,69,0.737,0.495,0.333,0.112,99.757,0.37
+54,#thatPOWER,#willpower (Deluxe),will.i.am,2013-01-01,279506,66,0.00112,0.797,0.608,0.0748,127.999,0.402
+55,"10,000 Hours (with Justin Bieber)","10,000 Hours (with Justin Bieber)",Dan + Shay,2019-10-04,167693,76,0.153,0.654,0.63,0.111,89.991,0.43
+56,I Can't Be Myself (feat. Jaden),Justice (Triple Chucks Deluxe),Justin Bieber,2021-03-26,193359,51,0.00195,0.704,0.66,0.141,120.064,0.54
+57,Loved By You (feat. Burna Boy),Justice,Justin Bieber,2021-03-19,159250,67,0.0696,0.79,0.724,0.113,101.04,0.642
+58,Habitual,Changes,Justin Bieber,2020-02-14,168200,61,0.52,0.764,0.443,0.0749,138.999,0.63
+59,All Around The World,Believe (Deluxe Edition),Justin Bieber,2012-06-15,244546,57,0.0188,0.689,0.816,0.181,127.972,0.776
+60,Changes,Changes,Justin Bieber,2020-02-14,135493,60,0.738,0.485,0.412,0.12,64.062,0.612
+61,Somebody,Justice,Justin Bieber,2021-03-19,179414,50,0.000286,0.547,0.753,0.12,75.999,0.375
+62,Love You Different (feat. BEAM),Justice,Justin Bieber,2021-03-19,186695,49,0.068,0.756,0.59,0.159,127.143,0.382
+63,Wish You Would (feat. Quavo),Justice (Triple Chucks Deluxe),Justin Bieber,2021-03-26,241391,48,0.032,0.592,0.679,0.0741,139.941,0.409
+64,Lolly,Lolly,Maejor,2013-01-01,225506,64,0.0376,0.663,0.889,0.784,152.186,0.837
+65,All Around Me,Changes,Justin Bieber,2020-02-14,136906,59,0.809,0.566,0.438,0.212,117.127,0.692
+66,U Smile,My World 2.0,Justin Bieber,2010-01-01,196906,61,0.504,0.705,0.59,0.116,112.565,0.421
+67,I'll Show You,Purpose (Deluxe),Justin Bieber,2015-11-13,199946,63,0.05,0.361,0.608,0.183,191.812,0.0789
+68,Know No Better (feat. DaBaby),Justice (Triple Chucks Deluxe),Justin Bieber,2021-03-26,161819,48,0.612,0.671,0.438,0.0947,131.92,0.854
+69,Second Emotion (feat. Travis Scott),Changes,Justin Bieber,2020-02-14,202720,58,0.0276,0.796,0.777,0.095,141.97,0.96
+70,That's What Love Is,Changes,Justin Bieber,2020-02-14,165120,57,0.692,0.639,0.437,0.12,147.575,0.751
+71,Heartbreaker,Journals,Justin Bieber,2014-05-13,262840,47,0.156,0.572,0.503,0.346,103.215,0.553
+72,Name (feat. Tori Kelly),Justice (Triple Chucks Deluxe),Justin Bieber,2021-03-26,159724,47,0.826,0.432,0.325,0.0891,151.494,0.295
+73,Be Alright,Believe (Deluxe Edition),Justin Bieber,2012-06-15,189653,54,0.589,0.803,0.356,0.16,106.95,0.739
+74,Get Me (feat. Kehlani),Changes,Justin Bieber,2020-02-14,185426,57,0.0492,0.832,0.508,0.107,109.352,0.75

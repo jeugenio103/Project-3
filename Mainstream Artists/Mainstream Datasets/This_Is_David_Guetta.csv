@@ -1,0 +1,98 @@
+,song name,album,artist,release_date,length(ms),popularity,acousticness,danceability,energy,liveness,tempo,valence
+0,I'm Good (Blue),I'm Good (Blue),David Guetta,2022-08-26,175238,97,0.00383,0.561,0.965,0.371,128.04,0.304
+1,DON'T YOU WORRY,DON'T YOU WORRY,Black Eyed Peas,2022-06-17,196363,83,0.203,0.816,0.875,0.209,131.958,0.491
+2,Crazy What Love Can Do,Crazy What Love Can Do,David Guetta,2022-04-08,169756,83,0.0282,0.601,0.713,0.158,122.872,0.464
+3,Heartbreak Anthem (with David Guetta & Little Mix),Heartbreak Anthem (with David Guetta & Little Mix),Galantis,2021-05-20,183725,78,0.216,0.595,0.784,0.0608,124.111,0.479
+4,What Would You Do?,What Would You Do?,Joel Corry,2022-03-18,174215,74,0.149,0.687,0.895,0.121,124.041,0.686
+5,Sexy Bitch (feat. Akon),One Love (Deluxe),David Guetta,2009-08-21,195853,66,0.0771,0.813,0.627,0.131,130.011,0.801
+6,Satisfaction,Satisfaction,David Guetta,2022-08-12,155676,60,0.0742,0.752,0.935,0.081,126.022,0.31
+7,Love Tonight - David Guetta Remix Edit,Love Tonight (David Guetta Remix),Shouse,2021-06-11,158095,80,0.015,0.621,0.989,0.184,126.002,0.0348
+8,Titanium (feat. Sia),Nothing but the Beat 2.0,David Guetta,2011-08-24,245040,68,0.0678,0.604,0.788,0.127,126.06,0.301
+9,Memories (feat. Kid Cudi),One Love (Deluxe),David Guetta,2009-08-21,210093,68,0.0015,0.561,0.87,0.246,129.98,0.498
+10,2U,2U,David Guetta,2017-06-09,194906,61,0.225,0.551,0.651,0.224,144.875,0.562
+11,Take Me Back,Take Me Back,Lewis Thompson,2022-07-22,129479,70,0.0898,0.648,0.865,0.297,121.98,0.587
+12,"Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)","Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",David Guetta,2021-10-29,158994,66,0.0744,0.687,0.717,0.134,88.063,0.685
+13,If You Really Love Me (How Will I Know),If You Really Love Me (How Will I Know),David Guetta,2021-07-02,184390,71,0.0512,0.692,0.883,0.228,122.984,0.614
+14,Remember,Remember,Becky Hill,2021-06-18,160766,78,0.041,0.612,0.862,0.0907,123.849,0.354
+15,Shine Your Light (feat. Akon),Shine Your Light (feat. Akon),Master KG,2021-05-28,189390,61,0.0267,0.763,0.781,0.106,122.989,0.399
+16,BED,BED,Joel Corry,2021-02-26,178087,75,0.0142,0.671,0.782,0.333,123.989,0.618
+17,Bad (feat. Vassy) - Radio Edit,Listen (Deluxe),David Guetta,2014-11-24,170625,50,0.00125,0.614,0.972,0.328,127.966,0.411
+18,Kill Me Slow,New Rave,David Guetta,2020-07-17,208095,61,0.114,0.698,0.859,0.228,126.039,0.518
+19,Gettin' Over You (feat. Fergie & LMFAO),One Love (Deluxe),David Guetta,2009-08-21,188000,49,0.178,0.615,0.913,0.0773,129.944,0.45
+20,Let's Love,Let's Love,David Guetta,2020-09-11,200645,70,0.00882,0.662,0.868,0.584,92.998,0.353
+21,Say My Name,7,David Guetta,2018-09-14,198946,61,0.137,0.703,0.66,0.192,95.031,0.79
+22,Like I Do,Like I Do,David Guetta,2018-02-22,202500,65,0.00664,0.635,0.9,0.37,127.978,0.15
+23,Never Be Alone (feat. Aloe Blacc),Never Be Alone (feat. Aloe Blacc),David Guetta,2019-07-26,178670,57,0.0202,0.535,0.906,0.0886,126.012,0.732
+24,Lovers on the Sun (feat. Sam Martin),Listen (Deluxe),David Guetta,2014-11-24,203520,48,0.0932,0.645,0.891,0.379,124.915,0.568
+25,Where Them Girls At (feat. Nicki Minaj & Flo Rida),Nothing but the Beat 2.0,David Guetta,2011-08-24,210093,65,0.0306,0.664,0.872,0.228,129.873,0.555
+26,Impossible (feat. John Martin),Impossible (feat. John Martin),David Guetta,2021-06-04,188437,63,0.0316,0.459,0.732,0.279,127.938,0.0609
+27,Stay (Don't Go Away) [feat. Raye],Stay (Don't Go Away) [feat. Raye],David Guetta,2019-05-09,185942,57,0.259,0.669,0.797,0.199,119.865,0.552
+28,Instagram,Instagram,Various Artists,2019-07-05,184558,64,0.125,0.765,0.906,0.423,96.071,0.95
+29,Drive - Edit,Subconsciously,Black Coffee,2021-02-05,191258,59,0.00123,0.721,0.789,0.0791,118.024,0.429
+30,Better When You're Gone,Better When You're Gone,David Guetta,2019-02-08,192402,61,0.0635,0.647,0.795,0.188,127.992,0.409
+31,Pa' La Cultura,Pa' La Cultura,David Guetta,2020-08-05,235603,57,0.0249,0.755,0.854,0.389,105.038,0.588
+32,Mad Love,Mad Love,Sean Paul,2018-02-15,199944,47,0.006,0.793,0.824,0.169,98.019,0.611
+33,Who's That Chick? (feat. Rihanna),Who's That Chick?,David Guetta,2010-12-06,201040,56,0.00372,0.675,0.601,0.0458,127.938,0.931
+34,Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix,Pop Life,David Guetta,2007-06-01,199386,61,0.0331,0.773,0.813,0.192,127.93,0.707
+35,Promises (with Sam Smith) - David Guetta Remix,Promises (with Sam Smith) [Remixes],Calvin Harris,2018-10-19,190416,58,0.186,0.588,0.697,0.103,125.157,0.225
+36,Your Love,Your Love,David Guetta,2018-06-14,185620,60,0.0997,0.571,0.937,0.125,125.027,0.512
+37,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016],David Guetta,2016-05-13,207272,66,0.0022,0.367,0.915,0.0905,110.169,0.365
+38,So Far Away (feat. Jamie Scott & Romy Dya),So Far Away (feat. Jamie Scott & Romy Dya),Martin Garrix,2017-12-01,183636,66,0.435,0.526,0.52,0.197,149.119,0.13
+39,Goodbye (feat. Nicki Minaj & Willy William),Goodbye (feat. Nicki Minaj & Willy William),Jason Derulo,2018-08-24,195419,61,0.0776,0.643,0.904,0.189,103.028,0.481
+40,Shot Me Down (feat. Skylar Grey) - Radio Edit,Listen (Deluxe),David Guetta,2014-11-24,191412,40,0.0597,0.347,0.772,0.115,192.118,0.035
+41,Make It To Heaven (with Raye),Make It To Heaven (with Raye),David Guetta,2019-11-21,172380,55,0.0936,0.587,0.92,0.185,126.035,0.35
+42,Sweat - Remix,Sweat (Snoop Dogg Vs. David Guetta) [Remix],Snoop Dogg,2011-01-01,195986,68,0.0597,0.813,0.732,0.0826,130.02,0.731
+43,Detroit 3 AM - Radio Edit,Detroit 3 AM (Radio Edit),David Guetta,2020-03-06,188640,50,0.000285,0.554,0.889,0.0906,125.016,0.0605
+44,Jump,Jump,David Guetta,2019-10-03,214218,49,0.00106,0.775,0.941,0.0781,127.997,0.362
+45,Survivor,Survivor / Put Your Phone Down (Low),Jack Back,2019-03-01,163236,56,0.00975,0.715,0.87,0.0829,125.008,0.305
+46,Sun Goes Down (feat. MAGIC! & Sonny Wilson),Listen (Deluxe),David Guetta,2014-11-24,211866,37,0.01,0.652,0.922,0.366,127.997,0.695
+47,Without You (feat. Usher),Nothing but the Beat 2.0,David Guetta,2011-08-24,208133,63,0.227,0.608,0.614,0.157,127.885,0.402
+48,Shed a Light,Uncovered,Robin Schulz,2017-09-29,191379,58,0.112,0.483,0.787,0.257,122.058,0.58
+49,Flames,Flames,David Guetta,2018-03-22,195000,67,0.0723,0.609,0.726,0.0895,93.958,0.362
+50,Baby When the Light (feat. Cozi),Pop Life,David Guetta,2007-06-01,208026,55,0.0264,0.588,0.749,0.139,129.959,0.248
+51,Love Don't Let Me Go,Just a Little More Love,David Guetta,2002-05-20,216893,55,7.37e-05,0.593,0.836,0.117,127.087,0.406
+52,Ain't a Party (feat. Harrison) - Radio Edit,Ain't a Party (feat. Harrison) [Radio Edit],David Guetta,2013-07-08,194500,46,0.0785,0.589,0.971,0.248,128.015,0.708
+53,Would I Lie to You - Radio Edit,Would I Lie to You,David Guetta,2016-09-30,197647,61,0.00718,0.671,0.826,0.631,123.986,0.774
+54,I'm That Bitch (feat. Saweetie),7,David Guetta,2018-09-14,194626,37,0.012,0.826,0.834,0.12,122.992,0.902
+55,Dirty Sexy Money (feat. Charli XCX & French Montana),Dirty Sexy Money (feat. Charli XCX & French Montana),David Guetta,2017-11-02,172687,57,0.0789,0.721,0.873,0.0824,79.943,0.552
+56,Versace on the Floor (Bruno Mars vs. David Guetta),Versace On The Floor (Bruno Mars vs. David Guetta),Bruno Mars,2017-06-27,228300,57,0.108,0.747,0.701,0.0712,100.012,0.589
+57,Don't Leave Me Alone (feat. Anne-Marie),Don't Leave Me Alone (feat. Anne-Marie),David Guetta,2018-07-26,183750,57,0.118,0.659,0.738,0.115,127.95,0.481
+58,Attention - David Guetta Remix,Attention (Acoustic + Remixes),Charlie Puth,2017-06-09,192000,49,0.0337,0.653,0.785,0.306,125.026,0.244
+59,Thing For You (With Martin Solveig),Thing For You (With Martin Solveig),David Guetta,2019-07-12,191398,49,0.0395,0.774,0.723,0.1,121.057,0.769
+60,She Wolf (Falling to Pieces) [feat. Sia],Nothing but the Beat 2.0,David Guetta,2011-08-24,222500,50,0.0834,0.491,0.857,0.344,129.971,0.395
+61,Just a Little More Love (feat. Chris Willis) - Jack Back 2018 Remix,7,David Guetta,2018-09-14,204386,32,0.00848,0.62,0.86,0.0852,127.967,0.0972
+62,Little Bad Girl (feat. Taio Cruz & Ludacris),Nothing but the Beat 2.0,David Guetta,2011-08-24,192275,41,0.00572,0.668,0.829,0.358,127.009,0.649
+63,Delirious (feat. Tara McDonald) - Radio Edit,Delirious (feat. Tara McDonald),David Guetta,2008-02-29,183426,42,0.00127,0.375,0.682,0.084,127.919,0.077
+64,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",Listen (Deluxe),David Guetta,2014-11-24,192560,62,0.24,0.596,0.73,0.325,85.979,0.525
+65,Ocean (feat. Khalid) - David Guetta Remix,Ocean (feat. Khalid) [David Guetta Remix],Martin Garrix,2018-08-17,195832,54,0.0913,0.609,0.824,0.134,127.072,0.36
+66,Complicated (feat. Kiiara),Complicated (feat. Kiiara),Dimitri Vegas & Like Mike,2017-07-28,184247,58,0.191,0.678,0.819,0.159,90.004,0.499
+67,Turn Me On (feat. Nicki Minaj),Nothing but the Beat 2.0,David Guetta,2011-08-24,199680,58,0.0488,0.705,0.794,0.575,127.961,0.412
+68,Para que te quedes (feat. J. Balvin),7,David Guetta,2018-09-14,178080,39,0.122,0.863,0.584,0.0707,94.0,0.698
+69,Right Now,Unapologetic (Deluxe),Rihanna,2012-12-11,181626,51,0.049,0.668,0.64,0.0675,130.004,0.259
+70,Tomorrow Can Wait,Pop Life,David Guetta,2007-06-01,189880,48,0.000124,0.676,0.497,0.855,128.106,0.327
+71,The World Is Mine,Guetta Blaster,David Guetta,2004-06-04,219946,54,0.000125,0.682,0.93,0.0481,127.867,0.46
+72,Sunshine,Nothing but the Beat - The Electronic Album,David Guetta,2011-08-24,360960,42,0.000556,0.584,0.802,0.0415,128.019,0.273
+73,Clap Your Hands,Listen Again,David Guetta,2015-11-27,235877,39,0.0114,0.673,0.957,0.145,128.004,0.336
+74,Everytime We Touch (with Steve Angello & Sebastian Ingrosso),Pop Life,David Guetta,2007-06-01,220640,39,0.0086,0.708,0.471,0.179,125.019,0.356
+75,(It Happens) Sometimes,(It Happens) Sometimes,Jack Back,2018-08-31,202276,54,0.000431,0.833,0.886,0.11,122.025,0.604
+76,The Alphabeat,Nothing but the Beat - The Electronic Album,David Guetta,2011-08-24,269033,36,0.0301,0.384,0.823,0.684,121.975,0.156
+77,Commander,Here I Am (Deluxe Version),Kelly Rowland,2011-01-01,218106,45,0.0173,0.395,0.876,0.362,124.638,0.567
+78,Just One Last Time (feat. Taped Rai),Nothing but the Beat 2.0,David Guetta,2011-08-24,227106,37,0.021,0.532,0.812,0.124,128.063,0.207
+79,Light Headed,7,David Guetta,2018-09-14,178720,32,0.0595,0.452,0.709,0.124,139.883,0.343
+80,LaserLight,Who You Are (Platinum Edition),Jessie J,2011-01-01,210173,32,0.151,0.799,0.779,0.109,127.501,0.843
+81,One Love (feat. Estelle),One Love (Deluxe),David Guetta,2009-08-21,241053,33,0.151,0.676,0.643,0.14,125.989,0.371
+82,She Knows How to Love Me (feat. Jess Glynne & Stefflon Don),7,David Guetta,2018-09-14,181733,36,0.112,0.629,0.676,0.396,171.801,0.441
+83,Light My Body Up (feat. Nicki Minaj & Lil Wayne),Light My Body Up (feat. Nicki Minaj & Lil Wayne),David Guetta,2017-03-23,225616,36,0.00365,0.699,0.66,0.139,145.937,0.689
+84,I Can Only Imagine (feat. Chris Brown & Lil Wayne),Nothing but the Beat 2.0,David Guetta,2011-08-24,209533,41,0.0463,0.669,0.939,0.335,127.947,0.264
+85,Let It Be Me (feat. Ava Max),7,David Guetta,2018-09-14,172933,51,0.128,0.743,0.529,0.181,102.048,0.438
+86,Helium (Sia vs. David Guetta & Afrojack),Helium (Sia vs. David Guetta & Afrojack),Sia,2018-01-25,237372,52,0.0977,0.542,0.587,0.2,136.915,0.243
+87,Blame It on Love (feat. Madison Beer),7,David Guetta,2018-09-14,207146,36,0.112,0.671,0.729,0.1,94.955,0.35
+88,Pelican - Edit,Listen Again,David Guetta,2015-11-27,205000,38,0.0052,0.419,0.604,0.106,123.001,0.0529
+89,Paris,Nothing but the Beat - The Electronic Album,David Guetta,2011-08-24,280608,32,0.0143,0.671,0.935,0.0423,129.987,0.16
+90,Night of Your Life (feat. Jennifer Hudson),Nothing but the Beat 2.0,David Guetta,2011-08-24,221973,33,0.0101,0.739,0.704,0.25,128.024,0.348
+91,The Death of EDM (feat. Beardyman),Listen Again,David Guetta,2015-11-27,294579,41,0.0865,0.711,0.906,0.0967,108.992,0.0392
+92,Battle (feat. Faouzia),7,David Guetta,2018-09-14,163866,39,0.0518,0.516,0.691,0.238,160.086,0.384
+93,What I Did for Love (feat. Emeli Sandé),Listen (Deluxe),David Guetta,2014-11-24,207200,33,0.107,0.494,0.721,0.119,128.1,0.356
+94,In Love with Myself,Guetta Blaster,David Guetta,2004-06-04,266826,40,0.00505,0.617,0.793,0.087,126.939,0.416
+95,"Motto (feat. Lil Uzi Vert, G-Eazy & Mally Mall)",7,David Guetta,2018-09-14,149520,37,0.052,0.742,0.827,0.263,85.014,0.654
+96,Bang My Head (feat. Sia & Fetty Wap),Listen Again,David Guetta,2015-11-27,193333,60,0.0525,0.599,0.869,0.103,108.061,0.593
