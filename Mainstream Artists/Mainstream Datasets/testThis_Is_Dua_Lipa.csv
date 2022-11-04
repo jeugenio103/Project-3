@@ -1,0 +1,47 @@
+,song name,album,artist,artists,release_date,length(ms),popularity,acousticness,danceability,energy,liveness,tempo,valence
+0,Potion (with Dua Lipa & Young Thug),Potion (with Dua Lipa & Young Thug),Calvin Harris,"['Calvin Harris', 'Dua Lipa']",2022-05-27,214459,78,0.158,0.824,0.697,0.077,99.988,0.757
+1,Don't Start Now,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,183290,70,0.0123,0.793,0.793,0.0951,123.95,0.679
+2,Levitating (feat. DaBaby),Future Nostalgia (The Moonlight Edition),Dua Lipa,"['Dua Lipa', 'DaBaby']",2021-02-11,203064,69,0.00883,0.702,0.825,0.0674,102.977,0.915
+3,New Rules,Dua Lipa (Deluxe),Dua Lipa,['Dua Lipa'],2017-06-02,209320,80,0.00261,0.762,0.7,0.153,116.073,0.608
+4,Cold Heart - PNAU Remix,Cold Heart (PNAU Remix),Elton John,"['Elton John', 'Dua Lipa']",2021-08-13,202735,87,0.034,0.796,0.798,0.0952,116.032,0.942
+5,Physical,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,193829,69,0.0137,0.647,0.844,0.102,146.967,0.746
+6,Break My Heart,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,221820,68,0.167,0.73,0.729,0.349,113.011,0.467
+7,Love Again,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,258004,73,0.00173,0.659,0.667,0.1,115.982,0.468
+8,IDGAF,Dua Lipa (Deluxe),Dua Lipa,['Dua Lipa'],2017-06-02,217946,79,0.0403,0.836,0.544,0.0824,97.028,0.51
+9,Hallucinate,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,208505,66,0.033,0.627,0.69,0.0742,122.053,0.627
+10,We're Good,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,165506,76,0.0319,0.722,0.588,0.183,134.01,0.59
+11,Prisoner (feat. Dua Lipa),Future Nostalgia (The Moonlight Edition),Dua Lipa,"['Miley Cyrus', 'Dua Lipa']",2021-02-11,169338,65,0.0109,0.769,0.659,0.0709,127.992,0.586
+12,Be the One,Be the One,Dua Lipa,['Dua Lipa'],2015-10-30,202914,70,0.117,0.661,0.651,0.056,87.46,0.368
+13,Sweetest Pie,Sweetest Pie,Megan Thee Stallion,"['Megan Thee Stallion', 'Dua Lipa']",2022-03-11,201334,78,0.167,0.814,0.628,0.101,123.977,0.677
+14,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),Calvin Harris,"['Calvin Harris', 'Dua Lipa']",2018-04-06,214846,88,0.037,0.791,0.862,0.0814,123.994,0.592
+15,Electricity (with Dua Lipa),Electricity (with Dua Lipa),Silk City,"['Silk City', 'Dua Lipa']",2018-09-06,238173,73,0.0104,0.588,0.67,0.338,118.159,0.505
+16,Blow Your Mind (Mwah),Blow Your Mind (Mwah),Dua Lipa,['Dua Lipa'],2016-08-26,178583,67,0.0188,0.654,0.796,0.0948,108.854,0.491
+17,Future Nostalgia,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,184881,63,0.00618,0.875,0.813,0.321,114.993,0.859
+18,Hotter Than Hell,Dua Lipa (Deluxe),Dua Lipa,['Dua Lipa'],2017-06-02,187957,65,0.011,0.532,0.868,0.0584,110.127,0.529
+19,Fever,Future Nostalgia (The Moonlight Edition),Dua Lipa,"['Dua Lipa', 'Angèle']",2021-02-11,156910,64,0.0597,0.868,0.693,0.106,114.999,0.396
+20,Pretty Please,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,194607,66,0.0311,0.906,0.474,0.286,106.976,0.656
+21,Un Día (One Day),Future Nostalgia (The Moonlight Edition),Dua Lipa,"['J Balvin', 'Dua Lipa']",2021-02-11,231815,63,0.00547,0.572,0.634,0.129,168.136,0.432
+22,Cool,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,209583,64,0.133,0.469,0.785,0.0931,89.719,0.79
+23,No Lie,Mad Love The Prequel,Sean Paul,"['Sean Paul', 'Dua Lipa']",2018-06-29,221176,82,0.0466,0.742,0.882,0.206,102.04,0.463
+24,Good In Bed,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,218754,63,0.138,0.68,0.701,0.168,94.06,0.649
+25,Boys Will Be Boys,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,166266,61,0.408,0.768,0.486,0.098,125.021,0.519
+26,Scared to Be Lonely,Scared to Be Lonely,Martin Garrix,"['Martin Garrix', 'Dua Lipa']",2017-01-27,220883,77,0.0895,0.584,0.54,0.261,137.972,0.195
+27,Lost In Your Light (feat. Miguel),Lost in Your Light (feat. Miguel),Dua Lipa,"['Dua Lipa', 'Miguel']",2017-04-21,203769,60,0.000402,0.646,0.772,0.102,117.097,0.414
+28,Kiss and Make Up,Dua Lipa (Complete Edition),Dua Lipa,"['Dua Lipa', 'BLACKPINK']",2018-10-19,189173,73,0.0658,0.678,0.729,0.303,99.895,0.643
+29,Begging,Dua Lipa (Complete Edition),Dua Lipa,['Dua Lipa'],2018-10-19,194106,59,0.024,0.683,0.794,0.302,105.941,0.327
+30,Genesis,Dua Lipa (Deluxe),Dua Lipa,['Dua Lipa'],2017-06-02,205720,60,0.0244,0.715,0.572,0.26,113.02,0.429
+31,No Goodbyes,Dua Lipa (Deluxe),Dua Lipa,['Dua Lipa'],2017-06-02,216080,60,0.00795,0.678,0.714,0.0827,109.021,0.307
+32,Last Dance,Dua Lipa (Deluxe),Dua Lipa,['Dua Lipa'],2017-06-02,228976,60,0.0232,0.589,0.578,0.0984,135.77,0.38
+33,"Swan Song - From the Motion Picture ""Alita: Battle Angel""","Swan Song (From the Motion Picture ""Alita: Battle Angel"")",Dua Lipa,['Dua Lipa'],2019-01-24,182074,60,0.00579,0.588,0.821,0.208,188.098,0.509
+34,Want To,Want To,Dua Lipa,['Dua Lipa'],2018-09-06,211817,58,0.0788,0.572,0.691,0.0619,92.082,0.318
+35,High (& Dua Lipa),Fifty Shades Freed (Original Motion Picture Soundtrack),Various Artists,"['Whethan', 'Dua Lipa']",2018-02-09,196706,66,0.0922,0.708,0.552,0.0541,147.834,0.686
+36,Homesick,Dua Lipa (Deluxe),Dua Lipa,['Dua Lipa'],2017-06-02,230480,65,0.948,0.426,0.224,0.112,85.728,0.399
+37,Thinking 'Bout You,Thinking 'Bout You,Dua Lipa,['Dua Lipa'],2017-01-06,171946,57,0.0856,0.802,0.481,0.152,90.973,0.468
+38,New Love,New Love,Dua Lipa,['Dua Lipa'],2015-08-21,271934,56,0.152,0.579,0.621,0.0869,90.354,0.343
+39,"I'm Not the Only One - Live from Spotify, London",Spotify Session,Dua Lipa,['Dua Lipa'],2016-07-08,195840,63,0.861,0.455,0.265,0.685,176.036,0.324
+40,"My Love (feat. Major Lazer, WizKid, Dua Lipa)",Shine,Wale,"['Wale', 'Major Lazer']",2017-04-28,228706,60,0.0453,0.728,0.811,0.362,114.995,0.705
+41,Room for 2,Room For 2,Dua Lipa,['Dua Lipa'],2016-10-28,208689,55,0.396,0.536,0.488,0.133,75.761,0.382
+42,If It Ain’t Me,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,195351,65,0.0185,0.809,0.623,0.0538,114.986,0.57
+43,That Kind Of Woman,Future Nostalgia (The Moonlight Edition),Dua Lipa,['Dua Lipa'],2021-02-11,200108,62,0.0045,0.64,0.665,0.22,113.213,0.42
+44,Not My Problem (feat. JID),Future Nostalgia (The Moonlight Edition),Dua Lipa,"['Dua Lipa', 'JID']",2021-02-11,143176,59,0.442,0.695,0.732,0.428,107.926,0.802
+45,I'd Rather Go Blind - Live,Live Acoustic EP,Dua Lipa,['Dua Lipa'],2017-12-08,156481,57,0.682,0.567,0.347,0.0873,114.056,0.348
