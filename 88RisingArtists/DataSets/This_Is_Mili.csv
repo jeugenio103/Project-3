@@ -1,0 +1,51 @@
+,song name,album,artist,featured,release_date,length(ms),popularity,acousticness,danceability,energy,liveness,tempo,valence
+0,world.execute (me) ;,Miracle Milk,Mili,['Mili'],2016-10-12,211912,52,0.00453,0.522,0.817,0.393,129.971,0.548
+1,Rightfully (TV Animation Goblin Slayer opening),Rightfully (TV Animation Goblin Slayer opening),Mili,['Mili'],2018-11-18,213333,54,0.00423,0.39,0.724,0.102,181.91,0.301
+2,"In Hell We Live, Lament","In Hell We Live, Lament",Mili,"['Mili', 'KIHOW']",2021-12-21,223807,48,0.228,0.45,0.558,0.288,124.818,0.146
+3,Mortal With You,Mortal With You,Mili,['Mili'],2022-07-06,235773,50,0.402,0.381,0.525,0.0946,183.635,0.232
+4,String Theocracy,To Kill a Living Book -for Library Of Ruina-,Mili,['Mili'],2021-10-29,174170,49,0.174,0.655,0.78,0.332,116.027,0.659
+5,Main Theme,ENDER LILIES: Quietus of the Knights Original Soundtrack,Binary Haze Interactive,"['Binary Haze Interactive', 'Mili']",2021-06-22,64821,43,0.986,0.621,0.0708,0.0905,111.989,0.388
+6,Paper Bouquet,Paper Bouquet,Mili,['Mili'],2022-04-02,208559,46,0.0114,0.563,0.867,0.21,106.034,0.665
+7,Ga1ahad and Scientific Witchery,Miracle Milk,Mili,['Mili'],2016-10-12,221378,43,0.0282,0.515,0.875,0.218,165.991,0.497
+8,Children of the City,To Kill a Living Book -for Library Of Ruina-,Mili,['Mili'],2021-10-29,234093,43,0.0187,0.684,0.648,0.131,119.019,0.446
+9,Harmonious,ENDER LILIES: Quietus of the Knights Original Soundtrack,Binary Haze Interactive,"['Binary Haze Interactive', 'Mili']",2021-06-22,188372,40,0.988,0.534,0.0354,0.0886,171.95,0.282
+10,Within (Goblin Slayer Episode Twelve inserted song),Within (Goblin Slayer Episode Twelve inserted song),Mili,['Mili'],2018-12-23,166184,44,0.566,0.647,0.409,0.286,113.906,0.11
+11,sustain++;,Intrauterine Education,Mili,['Mili'],2020-06-10,361000,44,0.00504,0.598,0.639,0.105,125.997,0.321
+12,Gone Angels,To Kill a Living Book -for Library Of Ruina-,Mili,['Mili'],2021-10-29,144926,40,0.808,0.588,0.32,0.105,64.627,0.478
+13,Bulbel,ENDER LILIES: Quietus of the Knights Original Soundtrack,Binary Haze Interactive,"['Binary Haze Interactive', 'Mili']",2021-06-22,206000,39,0.837,0.399,0.227,0.108,81.99,0.118
+14,Summoning 101,Millennium Mother,Mili,['Mili'],2018-04-25,171480,39,0.0327,0.624,0.858,0.136,93.038,0.823
+15,Iron Lotus,Iron Lotus,Mili,['Mili'],2021-02-27,237850,39,0.29,0.573,0.728,0.377,137.942,0.361
+16,"Salt, Pepper, Birds, and the Thought Police",To Kill a Living Book -for Library Of Ruina-,Mili,['Mili'],2021-10-29,244077,40,0.661,0.62,0.601,0.0782,77.96,0.615
+17,Prologue,ENDER LILIES: Quietus of the Knights Original Soundtrack,Binary Haze Interactive,"['Binary Haze Interactive', 'Mili']",2021-06-22,58407,36,0.982,0.646,0.0393,0.126,112.954,0.0513
+18,RTRT,Miracle Milk,Mili,['Mili'],2016-10-12,215023,40,0.0202,0.647,0.798,0.1,131.981,0.446
+19,Birthday Kid,Birthday Kid,Mili,['Mili'],2019-10-24,211779,38,0.738,0.559,0.568,0.129,75.029,0.477
+20,From a Place of Love,To Kill a Living Book -for Library Of Ruina-,Mili,['Mili'],2021-10-29,182087,38,0.715,0.63,0.416,0.16,119.941,0.408
+21,Lily,ENDER LILIES: Quietus of the Knights Original Soundtrack,Binary Haze Interactive,"['Binary Haze Interactive', 'Mili']",2021-06-22,190909,37,0.978,0.2,0.0257,0.0972,88.677,0.0346
+22,A Turtle's Heart - Key Ingredient ver.,Key Ingredient,Mili,['Mili'],2022-06-03,174551,35,0.792,0.66,0.258,0.0638,147.903,0.586
+23,Skin-Deep Comedy,Skin-Deep Comedy,Promise of wizard,"['Promise of wizard', 'Mili']",2022-03-18,322414,35,0.0949,0.551,0.39,0.0797,103.955,0.304
+24,Poems of a Machine,To Kill a Living Book -for Library Of Ruina-,Mili,['Mili'],2021-10-29,274084,37,0.268,0.584,0.554,0.115,129.947,0.245
+25,A Nocturne for All,ENDER LILIES: Quietus of the Knights Original Soundtrack,Binary Haze Interactive,"['Binary Haze Interactive', 'Mili']",2021-06-22,167368,32,0.985,0.619,0.186,0.106,95.003,0.527
+26,Victim,Victim,Mili,['Mili'],2019-01-24,231712,36,0.666,0.442,0.581,0.116,77.058,0.195
+27,Bathtub Mermaid,Miracle Milk,Mili,['Mili'],2016-10-12,224022,36,0.83,0.653,0.216,0.12,117.028,0.287
+28,Static,Static,Mili,['Mili'],2020-02-01,213111,36,0.735,0.315,0.396,0.194,101.64,0.29
+29,Camelia,Millennium Mother,Mili,['Mili'],2018-04-25,279986,36,0.757,0.643,0.47,0.132,126.035,0.442
+30,"Dandelion Girls, Dandelion Boys",Dandelions & Bento Boxes,Mili,['Mili'],2022-01-14,170963,33,0.344,0.473,0.59,0.134,166.102,0.343
+31,Red Dahlia,Miracle Milk,Mili,['Mili'],2016-10-12,137546,34,0.816,0.487,0.259,0.131,107.899,0.314
+32,Utopiosphere,Mag Mell,Mili,['Mili'],2014-09-24,132954,34,0.571,0.592,0.631,0.0858,88.031,0.506
+33,Vitamins,Millennium Mother,Mili,"['Mili', ""World's End Girlfriend""]",2018-04-25,300386,35,0.365,0.674,0.652,0.11,95.517,0.586
+34,Sloth,Sloth,Mili,['Mili'],2019-09-10,173348,33,0.362,0.765,0.39,0.112,115.997,0.448
+35,Utopiosphere -Platonism-,Miracle Milk,Mili,['Mili'],2016-10-12,131207,34,0.836,0.457,0.298,0.0929,176.085,0.53
+36,Mitsubachi,Mitsubachi,Mili,['Mili'],2019-10-04,178126,34,0.348,0.719,0.73,0.0852,147.911,0.464
+37,Mirror Mirror,Millennium Mother,Mili,['Mili'],2018-04-25,194173,33,0.121,0.756,0.74,0.101,119.988,0.629
+38,Cast Me a Spell,Cast Me a Spell,Promise of wizard,"['Promise of wizard', 'Mili']",2020-02-21,140442,32,0.274,0.679,0.608,0.391,141.071,0.691
+39,Though Our Paths May Diverge (Goblin Slayer Episode Seven inserted song),Rightfully (TV Animation Goblin Slayer opening),Mili,['Mili'],2018-12-05,198767,33,0.848,0.109,0.24,0.0907,166.383,0.0521
+40,world.search (you) ;,Hue,Mili,['Mili'],2017-05-24,292484,36,0.0423,0.734,0.689,0.0764,138.917,0.935
+41,雨と体液と匂い,雨と体液と匂い,Mili,['Mili'],2020-06-10,299000,34,0.204,0.689,0.488,0.103,127.977,0.3
+42,Rubber Human - Key Ingredient ver.,Key Ingredient,Mili,['Mili'],2022-06-03,147573,31,0.879,0.846,0.333,0.0738,129.963,0.494
+43,YUBIKIRI-GENMAN,Mag Mell,Mili,['Mili'],2014-09-24,235831,34,0.883,0.566,0.282,0.0672,73.001,0.396
+44,With a Billion Worldful of <3,Millennium Mother,Mili,"['Mili', 'DE DE MOUSE']",2018-04-25,205480,33,0.126,0.456,0.678,0.0812,150.217,0.323
+45,My Creator,My Creator,Mili,['Mili'],2022-02-26,192640,32,0.556,0.259,0.485,0.176,81.162,0.227
+46,TOKYO NEON - Key Ingredient ver.,Key Ingredient,Mili,['Mili'],2022-06-03,253024,30,0.819,0.491,0.285,0.0937,92.446,0.558
+47,Flowerworks,Flowerworks,Promise of wizard,"['Promise of wizard', 'Mili']",2021-08-24,225982,31,0.644,0.367,0.568,0.128,167.863,0.368
+48,Mushrooms,Millennium Mother,Mili,['Mili'],2018-04-25,225053,33,0.17,0.573,0.601,0.0688,155.915,0.336
+49,Nine Point Eight,Mag Mell,Mili,['Mili'],2014-09-24,190609,32,0.0725,0.429,0.704,0.125,82.025,0.554
