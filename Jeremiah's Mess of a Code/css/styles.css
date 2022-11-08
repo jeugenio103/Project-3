@@ -1,10 +1,7 @@
 body {
     margin: 0;
-    padding:0;
+    padding: 0;
     background-color: #1d2634;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
     color: #9e9ea4;
     font-family: "Montserrat", sans-serif;
   }
@@ -24,16 +21,7 @@ body {
       "sidebar main main main";
     height: 100vh;
   }
-
-  a {
-    text-decoration: none;
-  }
-  a:link, a:visited {
-      color: #9e9ea4;
-  }
-  a:hover {
-      color: #9e9ea4;
-  }
+  
   
   /* ---------- HEADER ---------- */
   .header {
@@ -232,7 +220,3 @@ body {
       display: none;
     }
   }
-
-  html {
-    height: 100%
-}

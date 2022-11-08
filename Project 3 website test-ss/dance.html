@@ -4,6 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>Project #3 Dashboard</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+ 
+    <!-- JSON -->
+    <script src="js/88data.js"></script>
 
     <!-- Montserrat Font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -43,38 +47,38 @@
         </div>
 
         <ul class="sidebar-list">
+            <li class="sidebar-list-item"> 
+              <span class="material-icons-outlined">home</span><a href ="index.html">Home</a>
+          </li>
+          <li class="sidebar-list-item">
+              <span class="material-icons-outlined">dashboard</span><a href="dashboard.html">Dashboard</a>
+          </li>
+          <li class="sidebar-list-item">  
+            <span class="material-icons-outlined">group</span><a href="collabs.html">Collaborations</a>
+          </li>
           <li class="sidebar-list-item"> 
-            <span class="material-icons-outlined">home</span><a href ="index.html">Home</a>
-        </li>
-        <li class="sidebar-list-item">
-            <span class="material-icons-outlined">dashboard</span><a href="dashboard.html">Dashboard</a>
-        </li>
-        <li class="sidebar-list-item">  
-          <span class="material-icons-outlined">group</span><a href="collabs.html">Collaborations</a>
-        </li>
-        <li class="sidebar-list-item"> 
-          <span class="material-icons-outlined">nightlife</span><a href="dance.html">Danceability</a>
-        </li>
-        <li class="sidebar-list-item">
-          <span class="material-icons-outlined">trending_up</span><a href="popularity.html">Popularity</a> 
-        </li>
-        <li class="sidebar-list-item">
-          <span class="material-icons-outlined">poll</span><a href="analysis.html">Analysis</a>
-        </li>
-        <li class="sidebar-list-item">
-          <span class="material-icons-outlined">support_agent</span><a href ="https://github.com/jeugenio103/Project-3">GitHub</a>
-        </li>
-        <li class="sidebar-list-item">
-          <span class="material-icons-outlined">diversity_3</span><a href ="aboutus.html">About Us</a>
-        </li>
-      </ul>
-    </aside>
+            <span class="material-icons-outlined">nightlife</span><a href="dance.html">Danceability</a>
+          </li>
+          <li class="sidebar-list-item">
+            <span class="material-icons-outlined">trending_up</span><a href="popularity.html">Popularity</a> 
+          </li>
+          <li class="sidebar-list-item">
+            <span class="material-icons-outlined">poll</span><a href="analysis.html">Analysis</a>
+          </li>
+          <li class="sidebar-list-item">
+            <span class="material-icons-outlined">support_agent</span><a href ="https://github.com/jeugenio103/Project-3">GitHub</a>
+          </li>
+          <li class="sidebar-list-item">
+            <span class="material-icons-outlined">diversity_3</span><a href ="aboutus.html">About Us</a>
+          </li>
+        </ul>
+      </aside>
       <!-- End Sidebar -->
 
       <!-- Main -->
       <main class="main-container">
         <div class="main-title">
-          <h2>DASHBOARD</h2>
+          <h2>Danceability</h2>
         </div>
 
         <div class="main-cards">
@@ -111,19 +115,12 @@
             <h1>56</h1>
           </div>
 
-        </div>
+          <div class="charts">
 
-        <div class="charts">
-
-          <div class="charts-card">
-            <h2 class="chart-title">Top 5 Products</h2>
-            <div id="bar-chart"></div>
-          </div>
-
-          <div class="charts-card">
-            <h2 class="chart-title">Purchase and Sales Orders</h2>
-            <div id="area-chart"></div>
-          </div>
+            <div class="charts-card">
+              <h2 class="chart-title">Top Artists & 88rising Monthly Listeners Comparison</h2>
+              <div id="chart"></div>
+            </div>
 
         </div>
       </main>
@@ -135,6 +132,9 @@
     <!-- ApexCharts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.5/apexcharts.min.js"></script>
     <!-- Custom JS -->
-    <script src="js/scripts.js"></script>
+    <script src="js/dance.js"></script>
+
+
+
   </body>
 </html>
