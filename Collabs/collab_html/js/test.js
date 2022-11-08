@@ -1,134 +1,63 @@
-var options = {
-    series: [
-    {
-      name: 'Actual',
-      data: [
-        {
-          x: '2011',
-          y: 1292,
-          goals: [
-            {
-              name: 'Expected',
-              value: 1400,
-              strokeHeight: 5,
-              strokeColor: '#775DD0'
-            }
-          ]
-        },
-        {
-          x: '2012',
-          y: 4432,
-          goals: [
-            {
-              name: 'Expected',
-              value: 5400,
-              strokeHeight: 5,
-              strokeColor: '#775DD0'
-            }
-          ]
-        },
-        {
-          x: '2013',
-          y: 5423,
-          goals: [
-            {
-              name: 'Expected',
-              value: 5200,
-              strokeHeight: 5,
-              strokeColor: '#775DD0'
-            }
-          ]
-        },
-        {
-          x: '2014',
-          y: 6653,
-          goals: [
-            {
-              name: 'Expected',
-              value: 6500,
-              strokeHeight: 5,
-              strokeColor: '#775DD0'
-            }
-          ]
-        },
-        {
-          x: '2015',
-          y: 8133,
-          goals: [
-            {
-              name: 'Expected',
-              value: 6600,
-              strokeHeight: 13,
-              strokeWidth: 0,
-              strokeLineCap: 'round',
-              strokeColor: '#775DD0'
-            }
-          ]
-        },
-        {
-          x: '2016',
-          y: 7132,
-          goals: [
-            {
-              name: 'Expected',
-              value: 7500,
-              strokeHeight: 5,
-              strokeColor: '#775DD0'
-            }
-          ]
-        },
-        {
-          x: '2017',
-          y: 7332,
-          goals: [
-            {
-              name: 'Expected',
-              value: 8700,
-              strokeHeight: 5,
-              strokeColor: '#775DD0'
-            }
-          ]
-        },
-        {
-          x: '2018',
-          y: 6553,
-          goals: [
-            {
-              name: 'Expected',
-              value: 7300,
-              strokeHeight: 2,
-              strokeDashArray: 2,
-              strokeColor: '#775DD0'
-            }
-          ]
-        }
-      ]
-    }
-  ],
-    chart: {
-    height: 350,
-    type: 'bar'
-  },
-  plotOptions: {
-    bar: {
-      columnWidth: '60%'
-    }
-  },
-  colors: ['#00E396'],
-  dataLabels: {
-    enabled: false
-  },
-  legend: {
-    show: true,
-    showForSingleSeries: true,
-    customLegendItems: ['Actual', 'Expected'],
-    markers: {
-      fillColors: ['#00E396', '#775DD0']
-    }
-  }
-  };
+d3.json("js/88data.js").then((importedData) => {
+  // console.log(importedData);
+  let data = importedData;
+  // Sort the data array by using the releasae date value.
+  data.sort(function(a, b) {
+    return parseFloat(a.release_date) - parseFloat(b.release_date);
+    
+  });
 
-  var chart = new ApexCharts(document.querySelector("#chart"), options);
-  chart.render();
+//Joji 
+function risingfilter(rising) {
+return rising.artist == "Joji"
+}
+let risingfiltered = data.filter(risingfilter)
+
+const arr1 = risingfiltered.map(row => row.danceability)
+const average1 = arr1.reduce((a, b) => a + b, 0) / arr1.length;
+
+const arr2 = risingfiltered.map(row => row.energy)
+const average2 = arr2.reduce((a, b) => a + b, 0) / arr2.length;
+
+const arr3 = risingfiltered.map(row => row.valence)
+const average3 = arr3.reduce((a, b) => a + b, 0) / arr3.length;
+
+const arr4 = risingfiltered.map(row => row.popularity)
+const average4= (arr4.reduce((a, b) => a + b, 0) / arr4.length)*0.01;
+
+var options = {
+  series: [{
+  name: 'Joji',
+  data: [average1, average2, average3, average4],
+}],
+chart: {
+height: 600,
+type: 'radar',
+},
+title: {
+text: "Joji",
+style: {
+  fontSize: '20px',
+  fontWeight: 'bold',
+  color:  '#FFFFFF'
+}
+},
+yaxis:{
+show: false
+},
+xaxis: {
+categories: ['Danceability', 'Energy', 'Valence', 'Popularity'],
+labels: {
+  show: true,
+  style: {
+    colors: ["#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF"],
+    fontSize: "15px"
+  }
+}
+}
+};
+
+var chart = new ApexCharts(document.querySelector("#chart"), options);
+chart.render();})
 
 

@@ -1,4 +1,4 @@
-d3.json("/Collabs/collab_html/js/all_collabs.js").then((importedData) => {
+d3.json("js/all_collabs.js").then((importedData) => {
     // console.log(importedData);
     let data = importedData;
   
@@ -17,8 +17,10 @@ function filterNumCollab(data) {
   function filterArtist(data, artist_name) {
     return data.featured_artist == artist_name
   }
+  console.log(collab_data.filter(collab_data => collab_data.featured_artist == 'Rich Brian'))
   // ---- Artist: 88rising ----
-  let collab_88rising = collab_data.filter(filterArtist(collab_data, '88rising'))
+  let collab_88rising = filterArtist(collab_data, '88rising')
+  console.log(collab_88rising)
   const tracks_88 = collab_88rising.map(row => row.featured)
   const tracks_88_size = tracks_88.length;
   
