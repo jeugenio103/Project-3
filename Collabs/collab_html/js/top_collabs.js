@@ -1,4 +1,4 @@
-d3.json("js/all_collabs.js").then((importedData) => {
+d3.json("/Collabs/collab_html/js/all_collabs.js").then((importedData) => {
     // console.log(importedData);
     let data = importedData;
   
