@@ -171,8 +171,15 @@ body {
     align-items: center;
     justify-content: center;
   }
+
+  /* APEX Chart Colors */
+  .apexcharts-tooltip {
+    color: #263043;
+  }
   
-  
+  .apexcharts-canvas {
+    color:#9e9ea4;
+  }
   /* ---------- MEDIA QUERIES ---------- */
   
   /* Medium <= 992px */
