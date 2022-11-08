@@ -1,4 +1,4 @@
-let searchResults = [
+[
     {
         "ID": 0,
         "acousticness": 0.062,
