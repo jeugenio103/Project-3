@@ -1,51 +1,50 @@
 // AREA CHART - 88rising music analysis
 
-import data from './88rising.json';
+// import data from './88rising.json';
 
-let id0 = object.values(data)
+// let id0 = object.values(data)
 // Initialized arrays
-let songName = data["songname"]
-console.log(songName)
+let songName =  [] 
 
-let greekNames = []
-let romanNames = []
-let greekSearchResults = []
-let romanSearchResults = []
+let danceability = []
+// let romanNames = []
+// let greekSearchResults = []
+// let romanSearchResults = []
 
 // For loop to populate arrays
 for (let i = 0; i < searchResults.length; i++) {
   row = searchResults[i];
-  names.push(row.pair);
-  greekNames.push(row.greekName);
-  romanNames.push(row.romanName);
-  greekSearchResults.push(row.greekSearchResults);
-  romanSearchResults.push(row.romanSearchResults);
+  songName.push(row.songName);
+  danceability.push(row.danceability);
+  // romanNames.push(row.romanName);
+  // greekSearchResults.push(row.greekSearchResults);
+  // romanSearchResults.push(row.romanSearchResults);
 }
 
 // Trace1 for the Greek Data
 let trace1 = {
-  x: names,
-  y: greekSearchResults,
-  text: greekNames,
-  name: "Greek",
+  x: songName,
+  y: danceability,
+  text: Scale,
+  name: "Music",
   type: "bar"
 };
 
 // Trace 2 for the Roman Data
-let trace2 = {
-  x: names,
-  y: romanSearchResults,
-  text: romanNames,
-  name: "Roman",
-  type: "bar"
-};
+// let trace2 = {
+//   x: names,
+//   y: romanSearchResults,
+//   text: romanNames,
+//   name: "Roman",
+//   type: "bar"
+// };
 
 // Create data array
-let data = [trace1, trace2];
+let data = [trace1];
 
 // Apply a title to the layout
 let layout = {
-  title: "Greek vs Roman gods search results",
+  title: "Corelation",
   barmode: "group",
   // Include margins in the layout so the x-tick labels display correctly
   margin: {

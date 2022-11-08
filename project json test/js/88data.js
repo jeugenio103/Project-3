@@ -11,7 +11,7 @@ let searchResults = [
         "liveness": 0.0995,
         "popularity": 69,
         "release_date": "2021-10-14",
-        "songname": "The Weekend",
+        'songname': "The Weekend",
         "tempo": 101.491,
         "valence": 0.817
     },
