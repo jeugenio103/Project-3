@@ -30,17 +30,32 @@ var options = {
     name: 'NIKI',
     data: [average1, average2, average3, average4],
   }],
-    chart: {
-    height: 500,
-    type: 'radar',
-  },
-  title: {
-    text: 'NIKI'
-  },
-  xaxis: {
-    categories: ['Danceability', 'Energy', 'Valence', 'Popularity']
+  chart: {
+  height: 600,
+  type: 'radar',
+},
+title: {
+  text: "NIKI",
+  style: {
+    fontSize: '20px',
+    fontWeight: 'bold',
+    color:  '#FFFFFF'
+}
+},
+yaxis:{
+  show: false
+},
+xaxis: {
+  categories: ['Danceability', 'Energy', 'Valence', 'Popularity'],
+  labels: {
+    show: true,
+    style: {
+      colors: ["#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF"],
+      fontSize: "15px"
+    }
   }
-  };
+}
+};
 
   var chart = new ApexCharts(document.querySelector("#chart2"), options);
   chart.render();})

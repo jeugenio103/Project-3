@@ -9,7 +9,7 @@ d3.json("js/mainstreamdata.js").then((importedData) => {
   
 //Joji 
 function risingfilter(rising) {
-  return rising.artist == "The Weeknd"
+  return rising.artist == "Taylor Swift"
 }
 let risingfiltered = data.filter(risingfilter)
 
@@ -27,20 +27,35 @@ const average4= (arr4.reduce((a, b) => a + b, 0) / arr4.length)*0.01;
 
 var options = {
     series: [{
-    name: "The Weeknd",
+    name: "Taylor Swift",
     data: [average1, average2, average3, average4],
   }],
-    chart: {
-    height: 500,
-    type: 'radar',
-  },
-  title: {
-    text: "The Weeknd"
-  },
-  xaxis: {
-    categories: ['Danceability', 'Energy', 'Valence', 'Popularity']
+  chart: {
+  height: 600,
+  type: 'radar',
+},
+title: {
+  text: "Taylor Swift",
+  style: {
+    fontSize: '20px',
+    fontWeight: 'bold',
+    color:  '#FFFFFF'
+}
+},
+yaxis:{
+  show: false
+},
+xaxis: {
+  categories: ['Danceability', 'Energy', 'Valence', 'Popularity'],
+  labels: {
+    show: true,
+    style: {
+      colors: ["#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF"],
+      fontSize: "15px"
+    }
   }
-  };
+}
+};
 
   var chart = new ApexCharts(document.querySelector("#chart6"), options);
   chart.render();})
