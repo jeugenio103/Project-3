@@ -180,6 +180,11 @@ body {
   .apexcharts-canvas {
     color:#9e9ea4;
   }
+
+  /* Table Color */
+  .table-color{
+    background-color: #263043;
+  }
   /* ---------- MEDIA QUERIES ---------- */
   
   /* Medium <= 992px */
