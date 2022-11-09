@@ -9,10 +9,11 @@ d3.json("js/all_collabs.js").then((importedData) => {
 
     // Filter data for collaborations where num_artists > 1
 function filterNumCollab(data) {
-    return (data.num_artists > 1 && data.in_88rising)
+    return (data.num_artists > 1 && data.in_88rising == false)
   }
-  let collab_data = data.filter(filterNumCollab)
   
+  let collab_data = data.filter(filterNumCollab)
+  console.log(collab_data)
   // Filter data based on Artist
   // ---- Artist: 88rising ----
   let collab_88rising = collab_data.filter(collab_data => collab_data.featured_artist == '88rising')
@@ -119,7 +120,7 @@ function filterNumCollab(data) {
     const avg_pop_mili = pop_mili.reduce((a, b) => a + b, 0) / tracks_mili_size;   
 
     // ---------- CHARTS ----------
-    // BAR CHART: 88rising Artists Total Collaborated Tracks
+    // BAR CHART: 88rising Artists Total Collaborations with Artists Outside of 88rising
     var options = {
         series: [
         {
@@ -127,13 +128,13 @@ function filterNumCollab(data) {
           data: [
             {
               x: '88rising',
-              y: tracks_88_size,
+              y: tracks_88_size * 2,
               goals: [
                 {
                   name: 'Popularity',
                   value: avg_pop_88,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -145,7 +146,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_highbro,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -157,7 +158,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_4k,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -169,7 +170,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_rich,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -181,7 +182,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_niki,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -193,7 +194,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_bibi,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -205,7 +206,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_ha,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -217,7 +218,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_joji,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -229,7 +230,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_wang,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -241,7 +242,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_steph,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -253,7 +254,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_hue,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -265,7 +266,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_ape,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             },
@@ -277,7 +278,7 @@ function filterNumCollab(data) {
                   name: 'Popularity',
                   value: avg_pop_mili,
                   strokeHeight: 5,
-                  strokeColor: '#775DD0'
+                  strokeColor: '#00E396'
                 }
               ]
             }
@@ -293,7 +294,7 @@ function filterNumCollab(data) {
           columnWidth: '60%'
         }
       },
-      colors: ['#00E396'],
+      colors: ['#FDE12D'],
       dataLabels: {
         enabled: false
       },
@@ -305,7 +306,7 @@ function filterNumCollab(data) {
           colors: '#f5f7ff'
         },
         markers: {
-          fillColors: ['#00E396', '#775DD0']
+          fillColors: [ '#FDE12D','#00E396']
         }
       },
       tooltip: {
@@ -320,6 +321,9 @@ function filterNumCollab(data) {
         }
       },
       yaxis: {
+        show: true,
+        min: 0,
+        max: 50,
         labels: {
           style: {
             colors: "#f5f7ff",
@@ -328,6 +332,7 @@ function filterNumCollab(data) {
       }
       };
 
-      var chart = new ApexCharts(document.querySelector("#chart"), options);
+    
+      var chart = new ApexCharts(document.querySelector("#chart3"), options);
       chart.render();
 })
