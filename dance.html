@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Project #3 Dashboard</title>
+
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+  </head>
+  <body>
+    <div class="grid-container">
+
+
+      <!-- Sidebar -->
+      <aside id="sidebar">
+        <div class="sidebar-title">
+          <div class="sidebar-brand">
+            <span class="material-icons-outlined">menu</span> Menu Bar
+          </div>
+          <span class="material-icons-outlined" onclick="closeSidebar()">close</span>
+        </div>
+
+        <ul class="sidebar-list">
+          <li class="sidebar-list-item"> 
+            <span class="material-icons-outlined">home</span><a href ="index.html">Home</a>
+        </li>
+        <li class="sidebar-list-item">  
+          <span class="material-icons-outlined">group</span><a href="collabs.html">Collaborations</a>
+        </li>
+        <li class="sidebar-list-item"> 
+          <span class="material-icons-outlined">nightlife</span><a href="dance.html">Music Analysis</a>
+        </li>
+        <li class="sidebar-list-item">
+          <span class="material-icons-outlined">trending_up</span><a href="popularity.html">Popularity</a> 
+        </li>
+        <li class="sidebar-list-item">
+          <span class="material-icons-outlined">support_agent</span><a href ="https://github.com/jeugenio103/Project-3">GitHub</a>
+        </li>
+      </ul>
+    </aside>
+      <!-- End Sidebar -->
+
+      <!-- Main -->
+      <main class="main-container">
+        <div class="main-title">
+          <h2>Music Analysis</h2>
+        </div>
+
+        <!-- <div class="main-cards">
+
+          <div class="card">
+            <div class="card-inner">
+              <h3>PRODUCTS</h3>
+              <span class="material-icons-outlined">inventory_2</span>
+            </div>
+            <h1>249</h1>
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <h3>CATEGORIES</h3>
+              <span class="material-icons-outlined">category</span>
+            </div>
+            <h1>25</h1>
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <h3>CUSTOMERS</h3>
+              <span class="material-icons-outlined">groups</span>
+            </div>
+            <h1>1500</h1>
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <h3>ALERTS</h3>
+              <span class="material-icons-outlined">notification_important</span>
+            </div>
+            <h1>56</h1>
+          </div>
+
+        </div> --> 
+
+        <div class="charts">
+
+          <div class="charts-card">
+            <h2 class="chart-title">The Weeknd</h2>
+            <div id="chart6"></div>
+          </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title">Ed Sheeran</h2>
+            <div id="chart1"></div>
+          </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title">Taylor Swift</h2>
+            <div id="chart5"></div>
+          </div>
+
+        <div class="charts-card">
+          <h2 class="chart-title">Joji</h2>
+          <div id="chart2"></div>
+        </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title">Niki</h2>
+            <div id="chart3"></div>
+          </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title">Rich Brian</h2>
+            <div id="chart4"></div>
+          </div>
+
+        </div>
+
+        </div>
+      </main>
+      <!-- End Main -->
+
+    </div>
+
+    <!-- Scripts -->
+    <!-- ApexCharts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.5/apexcharts.min.js"></script>
+    <!-- Custom JS -->
+    <script src="js/dance.js"></script>
+
+    <!-- JSON -->
+  </body>
+</html>
