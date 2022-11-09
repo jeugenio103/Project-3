@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Project #3 Dashboard</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- JSON -->
+    <script type="text/javascript" src="88rising.json"></script>
+
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <div class="grid-container">
+
+      <!-- Sidebar -->
+      <aside id="sidebar">
+        <div class="sidebar-title">
+          <div class="sidebar-brand">
+            <span class="material-icons-outlined">menu</span> Menu Bar
+          </div>
+          <span class="material-icons-outlined" onclick="closeSidebar()">close</span>
+        </div>
+
+        <ul class="sidebar-list">
+          <li class="sidebar-list-item"> 
+            <span class="material-icons-outlined">home</span><a href ="index.html">Home</a>
+        </li>
+        <li class="sidebar-list-item">  
+          <span class="material-icons-outlined">group</span><a href="collabs.html">Collaborations</a>
+        </li>
+        <li class="sidebar-list-item"> 
+          <span class="material-icons-outlined">nightlife</span><a href="dance.html">Music Analysis</a>
+        </li>
+        <li class="sidebar-list-item">
+          <span class="material-icons-outlined">trending_up</span><a href="popularity.html">Popularity</a> 
+        </li>
+        <li class="sidebar-list-item">
+          <span class="material-icons-outlined">support_agent</span><a href ="https://github.com/jeugenio103/Project-3">GitHub</a>
+        </li>
+      </ul>
+    </aside>
+      <!-- End Sidebar -->
+
+      <!-- Main -->
+      <main class="main-container">
+        <div class="main-title">
+          <h2>Popularity Analysis</h2>
+        </div>
+
+        <div class="main-cards">
+
+          <div class="card">
+            <div class="card-inner">
+              <h3>Top Ten Total Monthly Listeners</h3>
+            </div>
+            <h1>623,650,264</h1>
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <h3>Top Ten 88rising Total Monthly Listeners</h3>
+            </div>
+            <h1>63,195,432</h1>
+          </div>
+
+        </div>
+
+        <div class="charts">
+
+          <div class="charts-card">
+            <h2 class="chart-title">Top Artists & 88rising Monthly Listeners Comparison</h2>
+            <div id="chart1"></div>
+          </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title">Top Artists Monthly Listeners</h2>
+            <div id="chart2"></div>
+          </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title">Top 88 Rising Monthly Listeners</h2>
+            <div id="chart3"></div>
+          </div>
+        
+          <!--<div class="charts-card">
+            <h2 class="chart-title">Debut Comparison</h2>
+            <div id="chart4"></div>
+          </div>
+        -->
+
+        <div class="charts-card">
+          <h2 class="chart-title">Debut Comparison</h2>
+          <div id="chart7"></div>
+        </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title">Top Artist Genres</h2>
+            <div id="chart5"></div>
+          </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title">Top 88rising Genres</h2>
+            <div id="chart6"></div>
+          </div>
+
+        </div>
+      </main>
+      <!-- End Main -->
+
+    </div>
+
+    <!-- Scripts -->
+    <!-- ApexCharts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.5/apexcharts.min.js"></script>
+    <!-- Custom JS -->
+    <script src="js/popularity.js"></script>
+  </body>
+</html>
