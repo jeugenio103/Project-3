@@ -5,50 +5,30 @@
 
 
 Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evelyn Votran
-
-
-Analysis: 
 <br>
 <br>
-## Questions
-- How do top 88rising artists compare to top mainstream artists on Spotify?<br>
-Do song elements play a role in the popularity of the artists or track?<br>
-Do collaborations have an effect on track popularity?<br>
-
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
+* [Resources](#usage)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- How do top 88rising artists compare to top mainstream artists on Spotify?<br>
+- Do song elements play a role in the popularity of the artists or track?<br>
+- Do collaborations have an effect on track popularity?<br>
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Apexcharts
+- Javascript
 
 
 ## Screenshots
@@ -62,11 +42,16 @@ What are the project requirements/dependencies? Where are they listed? A require
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+## Resources
+Track feature and analysis:
+https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features<br>
 
-`write-your-code-here`
+https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-analysis<br><br>
+
+##Spotify Authorization Guide: https://developer.spotify.com/documentation/general/guides/authorization/<br><br>
+Spotipy<br>
+https://github.com/plamere/spotipy
+
 
 
 
