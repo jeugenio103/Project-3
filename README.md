@@ -89,8 +89,6 @@ https://developer.spotify.com/documentation/web-api/reference/#/operations/get-a
 https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-analysis<br><br>
 
 ##Spotify Authorization Guide: https://developer.spotify.com/documentation/general/guides/authorization/<br><br>
-Spotipy<br>
-https://github.com/plamere/spotipy
 
 
 ## Acknowledgements
