@@ -1,6 +1,7 @@
 # Project #3
-> Analysis of Asian influence on Spotify and compare streaming of Asian American artists (such as 88 Rising) to all artists streamed in United States. We will look at Spotify data to find if there is a correlation 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Analysis of Asian influence on Spotify and compare streaming of Asian American artists (88rising) to all artists streamed in United States. We will look at Spotify data to analyze. Given the increased diversification in mainstream media, we were interested to see what impact Asian Americans and Asians have made in the music industry in recent times. We specifically wanted to analyze data from 88rising, an American based music company that exclusively represents Asian American and Asian music artists.<br><br>
+
+> Live demo [_here_]([https://jeugenio103.github.io/Project-3/]). <br><br>
 
 
 Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evelyn Votran
@@ -10,9 +11,9 @@ Analysis:
 <br>
 <br>
 ## Questions
-- Is there a relationship between the rise in Asian American music in the US?<br>
-- Is there a correlation based on a song’s success due to collaborations, danceability, etc?<br>
-- How does streaming of Asian American music compare to top artists streamed on Spotify in the US?<br>
+- How do top 88rising artists compare to top mainstream artists on Spotify?<br>
+Do song elements play a role in the popularity of the artists or track?<br>
+Do collaborations have an effect on track popularity?<br>
 
 
 ## Table of Contents
@@ -68,13 +69,7 @@ Provide various use cases and code examples here.
 `write-your-code-here`
 
 
-## Project Status
-Project is: 
-
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+Thank you Bob.
