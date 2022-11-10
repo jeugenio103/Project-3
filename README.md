@@ -35,7 +35,7 @@ List the ready features here:
 
 
 ## Screenshots
-[Screenshots/Screen Shot 2022-11-09 at 6.46.32 PM.png]
+![Alt text](/Screen Shot 2022-11-09 at 6.46.32 PM.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
