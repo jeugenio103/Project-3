@@ -11,7 +11,6 @@ Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evely
 ## Table of Contents
 * [General Info](#general-information)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Popularity Analysis](#Popularity-Analysis)
 * [Music Analysis](#Music-Analysis)
 * [Collaborations Analysis](#Collaborations-Analysis)
@@ -32,12 +31,6 @@ Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evely
 List the ready features here:
 - Apexcharts
 - Javascript
-
-
-## Screenshots
-![Alt text](/Screen Shot 2022-11-09 at 6.46.32 PM.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
 
 ## Popularity-Analysis
 For this section, we wanted to focus on the top 10 most listened to artists on Spotify, and the top 10 88rising artists based on monthly listeners. 
