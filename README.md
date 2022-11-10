@@ -1,7 +1,7 @@
 # Project #3
 > Analysis of Asian influence on Spotify and compare streaming of Asian American artists (88rising) to all artists streamed in United States. We will look at Spotify data to analyze. Given the increased diversification in mainstream media, we were interested to see what impact Asian Americans and Asians have made in the music industry in recent times. We specifically wanted to analyze data from 88rising, an American based music company that exclusively represents Asian American and Asian music artists.<br><br>
 
-> Live demo [_here_]([https://jeugenio103.github.io/Project-3/]). <br><br>
+> Live demo [_here_](https://jeugenio103.github.io/Project-3/). <br><br>
 
 
 Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evelyn Votran
