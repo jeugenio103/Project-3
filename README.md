@@ -13,6 +13,7 @@ Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evely
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Popularity Analysis](#Popularity-Analysis)
+* [Music Analysis](#Music-Analysis)
 * [Resources](#usage)
 * [Acknowledgements](#acknowledgements)
 <!-- * [License](#license) -->
@@ -49,6 +50,12 @@ Top 3 categories for the 88rising artists are: hiphop, r&b, misc
 Misc: includes lofi, thai-pop, trip-hop<br><br>
 
 We can see that hip hop and r&b overlaps both groups and most likely plays a role in what is marketable to the Spotify users and audience. However, 88rising having more uncommon genres incorporated within their artists sets them apart and are memorable for their listeners.
+
+## Music-Analysis
+For the music analysis we wanted to see how song elements could affect track popularity.
+So we created a radar chart for the top 3 most popular mainstream artists and top 3 most popular 88Rising artists so we could see if there’s a trend amongst their music style or songs.The three factors we looked at besides popularity are danceability, energy, and valence. Danceability refers to how suitable a track is for dancing. Energy refers to the overall intensity and activity of the song. And valence refers to how positive a song is where more positive themes (happy) have a higher valence score and more sad themes have a lower valence score.<br><br>
+
+We discovered that all 6 artists have above average energy and danceability for their songs while also having average to below average valence (besides Ed Sheeran). But a lot of his recent songs have been trending down on valence as seen in his most recent album called Divide. This trend can also be seen in how a lot of recent viral hits like “Slow Dancing in the Dark” by Joji and “Anti-Hero” by Taylor Swift have a prominent beat (contributing to having a higher danceability and energy score) but generally have sad overtones (contributing to an average to below average valence score). This can be extended to predicting future hits by conducting an audio analysis on the track and seeing how they stack up compared to more popular artists’ songs.
 
 
 ## Resources
