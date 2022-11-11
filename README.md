@@ -15,7 +15,7 @@ Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evely
 * [Music Analysis](#Music-Analysis)
 * [Collaborations Analysis](#Collaborations-Analysis)
 * [Conclusion](#Conclusion)
-* [Resources](#usage)
+* [Resources](#Resources)
 * [Acknowledgements](#acknowledgements)
 <!-- * [License](#license) -->
 
