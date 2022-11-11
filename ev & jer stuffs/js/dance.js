@@ -3,17 +3,19 @@
 d3.json("js/mainstreamdata.js").then((importedData) => {
   // console.log(importedData);
   let data = importedData;
-  // Sort the data array by using the releasae date value.
+  // Sort the data array by using the release date value.
   data.sort(function(a, b) {
     return parseFloat(a.release_date) - parseFloat(b.release_date);
     
   });
 
+//Filter by Artist  
 function risingfilter(rising) {
 return rising.artist == "Ed Sheeran"
 }
 let risingfiltered = data.filter(risingfilter)
 
+//Calculate mean of danceability, energy, valence, and popularity (popularity scaled)
 const arr1 = risingfiltered.map(row => row.danceability)
 const average1 = arr1.reduce((a, b) => a + b, 0) / arr1.length;
 
@@ -26,6 +28,7 @@ const average3 = arr3.reduce((a, b) => a + b, 0) / arr3.length;
 const arr4 = risingfiltered.map(row => row.popularity)
 const average4= (arr4.reduce((a, b) => a + b, 0) / arr4.length)*0.01;
 
+//Creating Radar Chart
 var options1 = {
   series: [{
   name: "Ed Sheeran",
@@ -58,6 +61,7 @@ labels: {
 }
 };
 
+//Render Chart
 var chart1 = new ApexCharts(document.querySelector("#chart1"), options1);
 chart1.render();})
 
@@ -72,11 +76,13 @@ d3.json("js/88data.js").then((importedData) => {
   });
 
 //Joji 
+//Filter by Artist  
 function risingfilter(rising) {
 return rising.artist == "Joji"
 }
 let risingfiltered = data.filter(risingfilter)
 
+//Calculate mean of danceability, energy, valence, and popularity (popularity scaled)
 const arr1 = risingfiltered.map(row => row.danceability)
 const average1 = arr1.reduce((a, b) => a + b, 0) / arr1.length;
 
@@ -89,6 +95,7 @@ const average3 = arr3.reduce((a, b) => a + b, 0) / arr3.length;
 const arr4 = risingfiltered.map(row => row.popularity)
 const average4= (arr4.reduce((a, b) => a + b, 0) / arr4.length)*0.01;
 
+//Creating Radar Chart
 var options2 = {
   series: [{
   name: 'Joji',
@@ -121,11 +128,11 @@ labels: {
 }
 };
 
+//Render Chart
 var chart2 = new ApexCharts(document.querySelector("#chart2"), options2);
 chart2.render();})
 
 // NIKI ------------------------------------------------------------------------------
-
 d3.json("js/88data.js").then((importedData) => {
   // console.log(importedData);
   let data = importedData;
@@ -136,11 +143,13 @@ d3.json("js/88data.js").then((importedData) => {
   });
 
 //Niki 
+//Filter by Artist  
 function risingfilter(rising) {
 return rising.artist == "NIKI"
 }
 let risingfiltered = data.filter(risingfilter)
 
+//Calculate mean of danceability, energy, valence, and popularity (popularity scaled)
 const arr1 = risingfiltered.map(row => row.danceability)
 const average1 = arr1.reduce((a, b) => a + b, 0) / arr1.length;
 
@@ -153,6 +162,7 @@ const average3 = arr3.reduce((a, b) => a + b, 0) / arr3.length;
 const arr4 = risingfiltered.map(row => row.popularity)
 const average4= (arr4.reduce((a, b) => a + b, 0) / arr4.length)*0.01;
 
+//Creating Radar Chart
 var options3 = {
   series: [{
   name: 'NIKI',
@@ -185,6 +195,7 @@ labels: {
 }
 };
 
+//Render Chart
 var chart3 = new ApexCharts(document.querySelector("#chart3"), options3);
 chart3.render();})
 
@@ -199,12 +210,13 @@ d3.json("js/88data.js").then((importedData) => {
     
   });
 
- 
+//Filter by Artist  
 function risingfilter(rising) {
 return rising.artist == "Rich Brian"
 }
 let risingfiltered = data.filter(risingfilter)
 
+//Calculate mean of danceability, energy, valence, and popularity (popularity scaled)
 const arr1 = risingfiltered.map(row => row.danceability)
 const average1 = arr1.reduce((a, b) => a + b, 0) / arr1.length;
 
@@ -217,6 +229,7 @@ const average3 = arr3.reduce((a, b) => a + b, 0) / arr3.length;
 const arr4 = risingfiltered.map(row => row.popularity)
 const average4= (arr4.reduce((a, b) => a + b, 0) / arr4.length)*0.01;
 
+//Creating Radar Chart
 var options4 = {
   series: [{
   name: 'Rich Brian',
@@ -248,12 +261,11 @@ labels: {
 }
 }
 };
-
+//Render Chart
 var chart4 = new ApexCharts(document.querySelector("#chart4"), options4);
 chart4.render();})
 
 // TAYLOR SWIFT ------------------------------------------------------------------------------
-
 d3.json("js/mainstreamdata.js").then((importedData) => {
   // console.log(importedData);
   let data = importedData;
@@ -262,12 +274,14 @@ d3.json("js/mainstreamdata.js").then((importedData) => {
     return parseFloat(a.release_date) - parseFloat(b.release_date);
     
   });
- 
+
+//Filter by Artist   
 function risingfilter(rising) {
 return rising.artist == "Taylor Swift"
 }
 let risingfiltered = data.filter(risingfilter)
 
+//Calculate mean of danceability, energy, valence, and popularity (popularity scaled)
 const arr1 = risingfiltered.map(row => row.danceability)
 const average1 = arr1.reduce((a, b) => a + b, 0) / arr1.length;
 
@@ -280,6 +294,7 @@ const average3 = arr3.reduce((a, b) => a + b, 0) / arr3.length;
 const arr4 = risingfiltered.map(row => row.popularity)
 const average4= (arr4.reduce((a, b) => a + b, 0) / arr4.length)*0.01;
 
+//Creating Radar Chart
 var options5 = {
   series: [{
   name: "Taylor Swift",
@@ -311,7 +326,7 @@ labels: {
 }
 }
 };
-
+//Render Chart
 var chart5 = new ApexCharts(document.querySelector("#chart5"), options5);
 chart5.render();})
 
@@ -325,12 +340,13 @@ d3.json("js/mainstreamdata.js").then((importedData) => {
     return parseFloat(a.release_date) - parseFloat(b.release_date);
     
   });
-
+//Filter by Artist  
 function risingfilter(rising) {
 return rising.artist == "The Weeknd"
 }
 let risingfiltered = data.filter(risingfilter)
 
+//Calculate mean of danceability, energy, valence, and popularity (popularity scaled)
 const arr1 = risingfiltered.map(row => row.danceability)
 const average1 = arr1.reduce((a, b) => a + b, 0) / arr1.length;
 
@@ -343,6 +359,7 @@ const average3 = arr3.reduce((a, b) => a + b, 0) / arr3.length;
 const arr4 = risingfiltered.map(row => row.popularity)
 const average4= (arr4.reduce((a, b) => a + b, 0) / arr4.length)*0.01;
 
+//Creating Radar Chart
 var options6 = {
   series: [{
   name: "The Weeknd",
@@ -375,5 +392,6 @@ labels: {
 }
 };
 
+//Render Chart
 var chart6 = new ApexCharts(document.querySelector("#chart6"), options6);
 chart6.render();})
