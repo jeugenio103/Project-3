@@ -61,20 +61,20 @@ The artist, 88rising, represents track collaborations where 88rising artists are
 
 It was interesting to see that those who were featured in more tracks such as Higher Brothers and Guapdad 4000 had lower popularity ratings. While Joji, still remains at the top with the highest average popularity rating of 56% for the 5 tracks he is featured in. This could showcase that it is the quality of songs that attract listeners rather than quantity. This may be due to Joji having high standards for the songs he produces or is featured in.<br>
 
-Overall, all tracks with collaborations have an average popularity rating of 43.68%. Nevertheless, they have high danceability at 71.25% and energy at 62.93%. The valence is also more neutral at 47.68% meaning that the average 88rising songs are neither uplifting or depressing, producing music that is more neutral.
+Overall, all tracks with collaborations have an average popularity rating of 43.68%. Nevertheless, they have high danceability at 71.25% and energy at 62.93%. The valence is also more neutral at 47.68% meaning that the average 88Rising songs are neither uplifting or depressing, producing music that is more neutral.
 
 ## Conclusions
-How did the top 88rising artists compare to top mainstream artists on Spotify?
+- How did the top 88rising artists compare to top mainstream artists on Spotify?
 
 We saw 88rising has had a momentous upbringing in the last 7 years since its debut in 2015, reaching double million digit followings and reaching an audience through its unique culture branding.
 
-How did song elements play a role in the success of the artists or track?
+- How did song elements play a role in the success of the artists or track?
 
 88’s top artist such as Joji’s instrumental overtones in his top hits have seen a general lower valence trend, however, resulting in an increased popularity to their audience in relation to Taylor swifts top hits overtones. Danceability being a major component in their music composition, we saw the rise of its very own 88rising festival: Head in the clouds, established since 2018. Showcasing a lineup of genres from KPOP to hip-hop, and R&B music. 
 
-Lastly, how did collaborations have an effect on track popularity?
+- Lastly, how did collaborations have an effect on track popularity?
 
-We analyzed the effects of collaborated tracks amongst 88 riising artists having a popularity rating over 43%, with higher danceability and energy scores being above average. Nonetheless, 88 rising music pushes for more than a neutral but attractive atmosphere that gives a unlike feel to their tracks. 
+We analyzed the effects of collaborated tracks amongst 88 riising artists having a popularity rating over 43%, with higher danceability and energy scores being above average. Nonetheless, 88Rising music pushes for more than a neutral, but attractive atmosphere that gives a unlike feel to their tracks. 
 
 
 
@@ -85,6 +85,8 @@ https://developer.spotify.com/documentation/web-api/reference/#/operations/get-a
 https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-analysis<br><br>
 
 ##Spotify Authorization Guide: https://developer.spotify.com/documentation/general/guides/authorization/<br><br>
+
+##Spotipy Library Guide: https://spotipy.readthedocs.io/en/2.21.0/
 
 
 ## Acknowledgements
