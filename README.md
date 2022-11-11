@@ -65,12 +65,15 @@ Overall, all tracks with collaborations have an average popularity rating of 43.
 
 ## Conclusions
 How did the top 88rising artists compare to top mainstream artists on Spotify?
+
 We saw 88rising has had a momentous upbringing in the last 7 years since its debut in 2015, reaching double million digit followings and reaching an audience through its unique culture branding.
 
 How did song elements play a role in the success of the artists or track?
-88’s top artist such as Joji’s instrumental overtones in his top hits have seen a general lower valence trend, however, resulting in an increased popularity to their audience in relation to Taylor swifts top hits overtones. Danceability being a major component in their music composition, wecan see the rise of its very own 88rising festival: Head in the clouds, established since 2018, showcasing a lineup of genres from KPOP to hip-hop, and R&B music. 
+
+88’s top artist such as Joji’s instrumental overtones in his top hits have seen a general lower valence trend, however, resulting in an increased popularity to their audience in relation to Taylor swifts top hits overtones. Danceability being a major component in their music composition, we saw the rise of its very own 88rising festival: Head in the clouds, established since 2018. Showcasing a lineup of genres from KPOP to hip-hop, and R&B music. 
 
 Lastly, how did collaborations have an effect on track popularity?
+
 We analyzed the effects of collaborated tracks amongst 88 riising artists having a popularity rating over 43%, with higher danceability and energy scores being above average. Nonetheless, 88 rising music pushes for more than a neutral but attractive atmosphere that gives a unlike feel to their tracks. 
 
 
