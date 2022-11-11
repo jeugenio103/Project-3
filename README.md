@@ -84,9 +84,11 @@ https://developer.spotify.com/documentation/web-api/reference/#/operations/get-a
 
 https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-analysis<br><br>
 
-##Spotify Authorization Guide: https://developer.spotify.com/documentation/general/guides/authorization/<br><br>
+## Spotify Authorization Guide: 
+https://developer.spotify.com/documentation/general/guides/authorization/<br><br>
 
-##Spotipy Library Guide: https://spotipy.readthedocs.io/en/2.21.0/
+## Spotipy Library Guide: 
+https://spotipy.readthedocs.io/en/2.21.0/
 
 
 ## Acknowledgements
