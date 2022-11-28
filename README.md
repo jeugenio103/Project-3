@@ -74,7 +74,7 @@ We saw 88rising has had a momentous upbringing in the last 7 years since its deb
 
 - Lastly, how did collaborations have an effect on track popularity?
 
-We analyzed the effects of collaborated tracks amongst 88 riising artists having a popularity rating over 43%, with higher danceability and energy scores being above average. Nonetheless, 88Rising music pushes for more than a neutral, but attractive atmosphere that gives a unlike feel to their tracks. 
+We analyzed the effects of collaborated tracks amongst 88 rising artists having a popularity rating over 43%, with higher danceability and energy scores being above average. Nonetheless, 88Rising music pushes for more than a neutral, but attractive atmosphere that gives a unlike feel to their tracks. 
 
 
 
